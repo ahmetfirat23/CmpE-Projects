@@ -1,0 +1,117 @@
+<html>
+<head>
+<link href="css/question.css" type="text/css" rel="stylesheet" />
+<title>Question (teaching.codes)</title>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<h1>
+					Homework 5: <br><br>
+					<code>Operations with Images (100 points)</code>
+				</h1>
+				<div>
+					Please read <a href="ReadMe.html">important information</a> first.
+				</div>
+				<div id="page1">
+					<h2>Description</h2>
+					<p>
+                        In this homework, you will write a Python program to make some calculations on 3D pixels of some images.<br>
+                        We will use the <b>ppm</b> image format for reading image files. You are provided with two functions: <br>
+						<ol>
+						  <li><code>read_ppm_file(f)</code> which (is a function you are familiar with from the lectures) will enable you to read .ppm files to a 3d list.</li>
+						  <li><code>img_printer(img)</code> which is a function that prints 3d lists in a readable manner. You will use this and only this to output your results.</li>
+						</ol>
+						Two of the inputs you need are taken for you, <code>filename</code> and <code>operation</code>. <br>
+						filename is the name of the .ppm file you will read, and operation is a specific operation which you will apply to the image you read. <br>
+						The rest of the inputs you take will depend on the operation. filename will always belong to files in src folder, so you can directly use them with the filename variable. <br>
+						operation will always be an integer between 1-7, both inclusive. The details of the operations are as follows:
+					</p>
+					<h4>operation == 1</h4>
+					<p>
+						When operation input is 1, you will apply min-max normalization. <br>
+						In this case you will require two additional inputs: <code>minimum</code> and <code>maximum</code>, which you will also get from the user once this option is chosen. <br>
+						Each input will be given in separate lines. You can assume that these two values are integers. <br>
+
+						The formula for min-max normalization is as follows:
+						<p>
+							<img src="imgs/minmax_norm.png" alt="Min-Max Normalization Formula">
+						</p>
+						Make sure to round your normalized result to 4 decimal places.
+					</p>
+
+					<h4>operation == 2</h4>
+					<p>
+						When operation input is 2, you will apply z-score normalization. <br>
+						This case does not require additional inputs. You will find <b>channelwise</b> means and standard deviations, and output the normalized image. <br>
+						The required formulas are provided below:
+						<p>
+							<img src="imgs/zscore_norm.png" alt="Z-Score Normalization Formulas">
+						</p>
+						There are two additional details:
+						<ol>
+						  <li>Add the number <code>1e-6</code> to your standard deviation result to make sure that if there is an input which makes the standard deviation equal to 0, you don't get an error. </li>
+						  <li>Round your normalized result to 4 decimal places.</li>
+						</ol>
+					</p>
+					<h4>operation == 3</h4>
+					<p>
+						When operation input is 3, you will convert the image to black and white. This case does not require additional inputs. <br>
+						This can easily be done by taking the average of each pixel's channel values, and assigning to each channel the average value.<br>
+						For example, if a pixel's channel values are [12, 13, 14], you can do (12 + 13 + 14) / 3 = 13 and assign to that pixel's channels [13, 13, 13] and that's it.
+					</p>
+					<h4>operation == 4</h4>
+					<p>
+						When operation input is 4, you will apply convolution to the image.<br>
+						You will be provided two additional inputs: one is the filename of a filter which will be located under the src folder <br>
+						and the other is a stride parameter which denotes how many steps the filter will move after each summation is complete. <br>
+						<b>Important:</b> If the weighted sum exceeds the image maximum color value or becomes less than 0, you must clip it such that it is always between 0 and maximum color value. <br>
+						Each input will be given in separate lines. An example of the operation is provided below where stride is 1:
+						<p>
+							<img src="imgs/convolution.png" alt="Convolution Example">
+						</p>
+					</p>
+					<h4>operation == 5</h4>
+					<p>
+						When operation input is 5, you will again apply convolution to the image, but this time you <br>
+						will pad zeros to the edges of your input image so that your output image has the same dimensions as your input image. <br>
+						You will once more be provided two additional inputs: one is the filename of a filter which will be located under the src folder <br>
+						and the other is a stride parameter which denotes how many steps the filter will move after each summation is complete. <br>
+						<b>Important:</b> If the weighted sum exceeds the image maximum color value or becomes less than 0, you must clip it such that it is always between 0 and maximum color value. <br>
+						Each input will be given in separate lines.
+					</p>
+					<h4>operation == 6</h4>
+					<p>
+						When operation input is 6, you will apply color quantization to the image. <br>
+						You will get a range input which you will use to compare whether two <b>pixels</b> are similar enough to be grouped together or not. Input will be given in a separate line.<br>
+						The rule for this quantization is simple, if <b>all</b> the channel values between two pixels differ by less than the range, then they will be made equal. <br>
+						<b>Important:</b> This quantization part is <b>required</b> to be a recursive implementation. <br>
+						You will start from the pixel at (0,0) coordinates and check each of its valid neighbors.
+					</p>
+					<h4>operation == 7</h4>
+					<p>
+						When operation input is 7, you will again apply color quantization to the image but this time it is a 3d quantization. <br>
+						You will get a range input which you will use to compare whether two <b>channel values</b> are similar enough to be grouped together or not. <br>
+						The rule for this quantization is if the channel values between two neighbours differ by less than the range, then they will be made equal. <br>
+						Note that this time, different channels of the same pixel are considered as neighbors as well as the same channel on different pixels.
+						<b>Important:</b> This quantization part is <b>required</b> to be a recursive implementation. <br>
+						You will start from the channel at (0,0,0) coordinates and check each of its valid neighbors.
+					</p>
+					<p>
+						Check the examples for further clarification. Keep in mind that we will be grading your code not just based on these examples, but other cases as well,	so try to write code which can handle all possible cases.
+					</p>
+					<p>
+						<b>Warning:</b> You are not allowed to use any imports and any topics that haven't been covered this semester.
+					</p>
+					<p>
+						You will be provided example operation input and outputs on Moodle. src folder contains certain input files you will need. If you alter these files by accident, you can also find the original versions on Moodle. <br>
+						The recursion depth limit is assumed to be 1000, and inputs are provided accordingly.
+					</p>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
