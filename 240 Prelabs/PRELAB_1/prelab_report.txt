@@ -1,0 +1,164 @@
+Prelab
+
+int a = 0b00; // 2-bit unsigned integer
+int b = 0b00; // 2-bit unsigned integer
+int c = 0b00; // 2-bit unsigned integer
+
+if (a < 1) and (b < 3):
+	c = 0b00
+else if (a ^ b) < 2: // ^ means xor
+	c = 0b01
+else if a > b:
+	c = 0b10
+else:
+	c = 0b11
+
+
+Fill in the truth table. Change XX values to 00, 01, 10 or 11.
+
+a1a0b1b0 	c1c0
+0000 		00
+0001 		00
+0010 		00
+0011 		11
+0100 		01
+0101 		01
+0110 		11
+0111 		11
+1000 		10
+1001 		10
+1010 		01
+1011 		01
+1100 		10
+1101 		10
+1110 		01
+1111 		01
+
+You can use pqrs. Using a0a1b0b1 will be harder to read. Use p'q'r's' for prime forms.
+
+Used form: PoS
+c0 = (p+q+r+s)(p+q+r+s')(p+q+r'+s)(p'+q+r+s)(p'+q+r+s')(p'+q'+r+s)(p'+q'+r+s')
+
+Used form: SoP
+c1 = p'q'rs + p'qrs' + p'qrs + pq'r's' + pq'r's + pqr's' + pqr's
+
+
+Minimize c0
+c0 = (p+q+r+s)(p+q+r+s')(p+q+r'+s)(p'+q+r+s)(p'+q+r+s')(p'+q'+r+s)(p'+q'+r+s')
+
+   - Take the first sum (p+q+r+s) and the second sum (p+q+r+s')
+   (p+q+r+s)(p+q+r+s') = p+(q+r+s)(q+r+s') (distributivity)
+   p+(q+r+s)(q+r+s')   = p+q(r+s)(r+s')	 (distributivity)
+   p+q(r+s)(r+s')	     = p+q+r(ss')		 (distributivity)
+   p+q+r(ss')	     = p+q+r(0)		 (complement)
+   p+q+r(0)		     = p+q+r		 (identity)	
+
+c0 = (p+q+r)(p+q+r'+s)(p'+q+r+s)(p'+q+r+s')(p'+q'+r+s)(p'+q'+r+s')
+
+   - Add (p+q+r+s) again to minimize (p+q+r'+s).
+
+c0 = (p+q+r)(p+q+r+s)(p+q+r'+s)(p'+q+r+s)(p'+q+r+s')(p'+q'+r+s)(p+q'+r+s') (idempotent rule)
+
+   - Take the second sum (p+q+r+s) and the third sum (p+q+r'+s)
+   (p+q+r+s)(p+q+r'+s) = p+(q+r+s)(q+r'+s) (distributivity)
+   p+(q+r+s)(q+r'+s)   = p+q(r+s)(r'+s)	 (distributivity)
+   p+q(r+s)(r'+s)	     = p+q+s(rr')		 (distributivity)
+   p+q+s(rr')	     = p+q+s(0)		 (complement)
+   p+q+s(0)		     = p+q+s		 (identity)	
+
+c0 = (p+q+r)(p+q+s)(p'+q+r+s)(p'+q+r+s')(p'+q'+r+s)(p'+q'+r+s')
+
+   - Take the third sum (p'+q+r+s) and the fourth sum (p'+q+r+s')
+   (p'+q+r+s)(p'+q+r+s') = p'+(q+r+s)(q+r+s') (distributivity)
+   p'+(q+r+s)(q+r+s')    = p'+q(r+s)(r+s')    (distributivity)
+   p'+q(r+s)(r+s')	 = p'+q+r(ss')	    (distributivity)
+   p'+q+r(ss')	       = p'+q+r(0)	    (complement)
+   p'+q+r(0)		 = p'+q+r		    (identity)	
+
+c0 = (p+q+r)(p+q+s)(p'+q+r)(p'+q'+r+s)(p'+q'+r+s')
+
+   - Take the fourth sum (p'+q'+r+s) and the fifth sum (p'+q'+r+s')
+   (p'+q'+r+s)(p'+q'+r+s') = p'+(q'+r+s)(q'+r+s') (distributivity)
+   p'+(q'+r+s)(q'+r+s')    = p'+q'(r+s)(r+s')     (distributivity)
+   p'+q'(r+s)(r+s')	   = p'+q'+r(ss')	        (distributivity)
+   p'+q'+r(ss')	         = p'+q'+r(0)	        (complement)
+   p'+q'+r(0)		   = p'+q'+r		  (identity)
+
+c0 = (p+q+r)(p+q+s)(p'+q+r)(p'+q'+r)
+
+   - Take the first sum (p+q+r) and the third sum (p'+q+r)
+   (p+q+r)(p'+q+r) = q+(p+r)(p'+r) (distributivity)
+   q+(p+r)(p'+r)   = q+r+(pp')     (distributivity)
+   q+r+(pp') 	 = q+r+(0)       (complement)
+   q+r+(0) 		 = q+r 	     (identity)
+
+c0 = (q+r)(p+q+s)(p'+q'+r)
+
+   - Add (p'+q+r) again to minimize (p'+q'+r).
+
+c0 = (q+r)(p+q+s)(p'+q'+r)(p'+q+r) (idempotent) 
+
+   - Take the third sum (p'+q'+r) and the fourth sum (p'+q+r)
+   (p'+q'+r)(p'+q+r) = p'+(q'+r)(q+r) (distributivity)
+   p'+(q'+r)(q+r)    = p'+r+(q'q)     (distributivity)
+   p'+r+(q'q) 	   = p'+r+(0)       (complement)
+   p'+r+(0) 	   = p'+r 	        (identity)
+
+c0 = (q+r)(p+q+s)(p'+r)
+
+This is the final equation for PoS minimization.
+
+
+
+
+
+Minimize c1
+c1 = p'q'rs + p'qrs' + p'qrs + pq'r's' + pq'r's + pqr's' + pqr's
+
+   - Take the second product (p'qrs') and the third product (p'qrs)
+   p'qrs' + p'qrs = p'(qrs' + qrs) (distributivity)
+   p'(qrs' + qrs) = p'q(rs' + rs)  (distributivity)
+   p'q(rs' + rs) = p'qr(s' + s) (distributivity)
+   p'qr(s' + s) = p'qr(0) (complement)
+   p'qr(0) = p'qr (identity)
+
+c1 = p'q'rs + p'qr + pq'r's' + pq'r's + pqr's' + pqr's
+
+   - Add (p'qrs) again to minimize (p'q'rs)
+
+c1 = p'q'rs + p'qrs + p'qr + pq'r's' + pq'r's + pqr's' + pqr's (idempotent)
+
+   - Take the first product (p'q'rs) and the second product (p'qrs)
+   p'q'rs + p'qrs = p'(q'rs + qrs) (distributivity)
+   p'(q'rs + qrs) = p'r(q's + qs) (distributivity)
+   p'r(q's + qs) = p'rs(q' + q) (distributivity)
+   p'rs(q' + q) = p'rs(0) (complement)
+   p'rs(0) = p'rs (identity)
+
+c1 = p'rs + p'qr + pq'r's' + pq'r's + pqr's' + pqr's 
+
+   - Take the third product (pq'r's') and the fifth product (pqr's')
+   pq'r's' + pqr's' = p(q'r's' + qr's') (distributivity)
+   p(q'r's' + qr's') = pr'(q's' + qs') (distributivity)
+   pr'(q's' + qs') = pr's'(q' + q) (distributivity)
+   pr's'(q' + q) = pr's'(0) (complement)
+   pr's'(0) = pr's' (identity)
+
+c1 = p'rs + p'qr + pr's' + pq'r's + pqr's
+
+   - Take the fourth product (pq'r's) and fifth product (pqr's)
+   pq'r's + pqr's = p(q'r's + qr's) (distributivity)
+   p(q'r's + qr's) = pr'(q's + qs) (distributivity)
+   pr'(q's + qs) = pr's(q' + q) (distributivity)
+   pr's(q' + q) = pr's(0) (complement)
+   pr's(0) = pr's (identity)
+
+c1 = p'rs + p'qr + pr's' + pr's
+
+   - Take the third product (pr's') and fourth product (pr's)
+   pr's + pr's' = p(r's + r's') (distributivity)
+   p(r's + r's') = pr'(s + s') (distributivity)
+   pr'(s + s') = pr'(0) (complement)
+   pr'(0) = pr' (identity)
+
+c1 = p'rs + p'qr + pr'
