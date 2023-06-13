@@ -1,0 +1,1 @@
+Action = [magic_missile,2]

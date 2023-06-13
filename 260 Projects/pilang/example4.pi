@@ -1,0 +1,18 @@
+; We calculate the number of negative numbers in a list
+
+(:= a (list -1 6 -32 -5 -65 12 198 356 -249))   ; Our starting list
+(:= i 0)                                        ; Negative Numbers' Counter Variable
+(:= n (- (length a) 1))                         ; Size of the list
+(while: (< -1 n)                                ; Loop go brooooo
+    (   
+        (:= z (list-ref a n))                   ; Get the element at nth index
+        (if: (< z 0)                            ; Check the negative number condition
+                    (   
+                        (:= i (+  i 1))         ; Increment the counter
+                    )
+                    ()
+        )
+        (:= n (- n 1))                          ; Decrement the upper bound
+    )
+)
+(printf "Negative number's count = ~a\n" i)

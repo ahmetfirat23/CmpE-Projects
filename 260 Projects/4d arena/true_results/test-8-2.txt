@@ -1,0 +1,1 @@
+Action = [ranged_attack,1]

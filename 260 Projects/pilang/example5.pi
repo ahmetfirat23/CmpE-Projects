@@ -1,0 +1,28 @@
+; We find the smallest item in a list
+
+(:= min-element 1000000)                            ; Starting with a very big minimum
+(:= minimum                                         ; Function Call -> we pass the array as our parameter
+    (func (x)
+        ( 
+        (:= l (- (length x) 1))                     ; Loop all the list. Replace the minimum number if the condition is satisfied
+        (while: (> l -1)
+            (
+                (:= item (list-ref x l))
+                (if: (> min-element item) 
+                    (
+                        (:= min-element item)
+                    )
+                    (
+                    ) 
+                )
+                (:= l (- l 1))
+            )
+        )
+        (:= min-element min-element)
+        )        
+    )
+)
+(:= a (list -1 6 -32 -5 -65 12 198 356))                      ; Function are good. No redundancy!
+(:= b (list 832 12 12 231 81 6 1656))
+(printf "The minimum of the list A is ~a \n" (minimum a))
+(printf "The minimum of the list B is ~a \n" (minimum b))

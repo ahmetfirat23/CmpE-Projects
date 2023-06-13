@@ -1,0 +1,41 @@
+(:= a 5)
+(:= b (cdr (list 1 2 3)))
+(:= c a)
+(:= d (* 3 4))
+(:= e (* 2 d))
+(:= f 3)
+(:= f (/ f e))
+(:= pi-num 3.14)
+(:= area
+    (func (x type) (
+            (:= square (* x x))
+            (if: (eq? type "circle")
+                (
+                    (:= a (* pi-num square))
+                )
+                (
+                    (if: (eq? type "triangle")
+                        (
+                            (:= k (/ (sqrt 3) 4))
+                            (:= a (* k square))
+                        )
+                        ( ; else it is a square
+                            (:= a square)
+                        )
+                    )
+                )
+            )
+        )
+    )
+)
+
+(printf "a = ~a\n" a)
+(printf "b = ~a\n" b)
+(printf "c = ~a\n" c)
+(printf "d = ~a\n" d)
+(printf "e = ~a\n" e)
+(printf "f = ~a\n" f)
+(printf "pi-num = ~a\n" pi-num)
+(printf "circle area = ~a\n" (area 5 "circle"))
+(printf "triangle area = ~a\n" (area 5 "triangle"))
+(printf "square area = ~a\n" (area 5 "square"))

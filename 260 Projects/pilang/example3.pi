@@ -1,0 +1,17 @@
+; We calculate first 10 Fibonacci Numbers
+
+(:= c 9)                              ; Loop counter
+(:= n 1)                              ; first Fibonacci Number
+(:= m 1)                              ; Second Fibonacci Number
+(:= k 0)                              ; Dummy sum variable
+(printf "Fib = ~a\n" n)               ; Print the first number
+(printf "Fib = ~a\n" m)               ; Print the second number
+(while: (> c 1)                       ; Loop for 8 time
+	(
+		(:= k (+ n m))                ; Sum the 2 numbers
+		(:= n m)                      ; Assign the second Fib to the first Fib
+		(:= m k)                      ; Assign the summation to the second Fib
+		(:= c (- c 1))                ; Decrement the counter
+		(printf "Fib = ~a\n" m)       ; Print the Fib number
+	)
+)	

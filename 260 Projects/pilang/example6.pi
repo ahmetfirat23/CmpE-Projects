@@ -1,0 +1,36 @@
+; Swap 2 adjacent items given the start index
+
+(:= swap                                                 ; Swapping elements to prepare for the sorting algorithm
+        (func (lst i)(                                   ; Our function's paramters are the list and the start index
+                (:= len (- (length lst) 1))              ; It is assumed that no number bigger than n - 2, where n is the length of the list, would be entered        
+                (:= fin-lst (list 1))                    ; For some reason, I had to start with a non-empty list. We plug in 1 temporarily 
+                (:= count 0)
+                (while: (< count len)                    ; While looping, check if we arrived at the start index. If so swap and append 2 elements. Otherwise, append each element individually
+                    (
+                        (:= item (list-ref lst count))
+                        (:= next-item (list-ref lst (+ count 1)))
+                        (if: (eq? count i)
+                            (
+                                (:= fin-lst (append fin-lst (list next-item item)))
+                                (:= count (+ count 2))
+                            )
+                            (
+                                (:= fin-lst (append fin-lst (list item)))
+                                (:= count (+ count 1))
+                            )
+                        )
+                    )
+                ) 
+                (if: (eq? (+ len 1) (length fin-lst))                            ; Checking for anomalies at the last index in case we missed something
+                    (
+                        (:= fin-lst (append fin-lst (list (list-ref lst len))))
+                    )
+                    (
+                    )
+                )
+                (:= fin-lst (cdr fin-lst))                                       ; We don't forget to eliminate 1 inserted earlier
+            )         
+        )
+)        
+(:= a (list 4 8 7 6 5 2))
+(printf "The list after swapping the adjacent items at the indices 4,5 ~a \n" (swap a 4))

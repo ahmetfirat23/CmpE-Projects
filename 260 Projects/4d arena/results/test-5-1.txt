@@ -1,0 +1,3 @@
+NumWarriors = 0
+NumWizards = 1
+NumRogues = 1

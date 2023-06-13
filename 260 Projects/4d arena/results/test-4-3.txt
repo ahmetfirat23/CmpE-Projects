@@ -1,0 +1,3 @@
+TargetStateId = 1390
+TargetAgentId = 1
+Distance = 1

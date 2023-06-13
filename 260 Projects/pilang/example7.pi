@@ -1,0 +1,65 @@
+; This is an inefficient implementation of Bubble Sorting 
+(:= my-list (list -1 6 -32 -5 -65 12 198 356))
+(:= no (length my-list))
+(:= x 0)
+(:= y 0)
+(:= swap                                                                       ; You can review the function's implementation from example6. 
+        (func (lst i)(
+                (:= len (- (length lst) 1))
+                (:= fin-lst (list 1))
+                (:= count 0)
+                (while: (< count len)
+                    (
+                        (:= item (list-ref lst count))
+                        (:= next-item (list-ref lst (+ count 1)))
+                        (if: (eq? count i)
+                            (
+                                (:= fin-lst (append fin-lst (list next-item item)))
+                                (:= count (+ count 2))
+                            )
+                            (
+                                (:= fin-lst (append fin-lst (list item)))
+                                (:= count (+ count 1))
+                            )
+                        )
+                    )
+                )
+                (if: (eq? (+ len 1) (length fin-lst))
+                    (
+                        (:= fin-lst (append fin-lst (list (list-ref lst len))))
+                    )
+                    (
+                    )
+                )
+                (:= fin-lst (cdr fin-lst))
+            )         
+        )
+)                                                                             ; The Bubble sort implementation. O(n^2). Don't try with long lists, please!!
+(:= sort 
+        (func (a) (                                                           ; Our parameter is the input list a
+                    (while: (< x no)(
+                        (:= y 0)
+                        (while: (< y (- no 1))
+                            (
+                                (:= m (list-ref a y))
+                                (:= n (list-ref a (+ y 1)))
+                                (if: (> m n)                                   ; swap if a[y] > a[y+1]
+                                    (   
+                                        
+                                        (:= a (swap a y))
+                                    )
+                                    (
+                                    )
+                                )
+                            (:= y (+ y 1))                                    ; increment y, our counter in the inner loop
+                            )       
+                        )
+                        (:= x (+ x 1))                                        ; increment x, our counter in the outer loop
+                        )
+                    )
+                    (:= a a)                                                  ; Final assignment
+                )
+        )       
+)
+(printf "Original List = ~a\n" my-list)
+(printf "Sorted List = ~a\n" (sort my-list))
