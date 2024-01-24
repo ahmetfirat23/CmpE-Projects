@@ -1,0 +1,13 @@
+7
+10
+4 3 1 2 3
+13
+2 1 enhance
+5 2 trim
+4 2 chop
+3 5 trim
+6 5 split
+7 4 trim
+IE
+OX
+YX

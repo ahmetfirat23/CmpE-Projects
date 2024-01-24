@@ -1,0 +1,14 @@
+7
+5
+4 3 1 2 3
+13
+2 1 split
+3 1 trim
+4 2 enhance
+5 2 reverse
+6 3 chop
+7 3 trim
+IE
+AI
+AI
+OWHY

@@ -1,0 +1,81 @@
+43
+71
+16 1 14 10 17
+163
+2 1 split
+3 1 reverse
+4 1 chop
+5 1 reverse
+6 1 chop
+7 1 reverse
+8 1 chop
+9 2 reverse
+10 2 chop
+11 3 trim
+12 3 split
+13 3 trim
+14 4 chop
+15 4 trim
+16 4 chop
+17 5 trim
+18 5 chop
+19 5 trim
+20 5 chop
+21 6 trim
+22 6 enhance
+23 6 trim
+24 6 enhance
+25 6 reverse
+26 6 enhance
+27 6 reverse
+28 6 enhance
+29 7 trim
+30 7 chop
+31 7 trim
+32 7 chop
+33 7 reverse
+34 7 enhance
+35 7 trim
+36 7 chop
+37 8 reverse
+38 8 split
+39 8 reverse
+40 8 split
+41 8 reverse
+42 8 split
+43 8 trim
+HDBY
+V
+VOQBP
+GSOA
+CYG
+ICU
+M
+JOEU
+D
+AKPF
+MEEX
+ONTD
+E
+P
+EJ
+QH
+UDN
+XV
+Y
+L
+XJWII
+Q
+VOC
+OLXEC
+H
+HTHDT
+HDWW
+ZL
+UH
+TG
+EGOS
+RWC
+DOH
+OE
+ZOIMK
