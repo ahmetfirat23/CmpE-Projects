@@ -1,0 +1,18 @@
+{
+    "config": {
+        "model_arch": "rnn_conv",
+        "rnn_type": "gru",
+        "latent_dim": 64,
+        "beta": 1.0,
+        "lr": 0.001,
+        "hidden_dim": 64,
+        "num_layers": 1,
+        "encoder_variant": "last_hidden",
+        "bidirectional": true,
+        "epochs": 500,
+        "batch_size": 64
+    },
+    "best_val_loss": 54.416931640625,
+    "weights_path": "outputs_unconditional/RNN_Encoder_Conv_Decoder_VAE/rnn_conv_gru_ld64_b1.0_lr0.001_run1/best_model_weights.pth",
+    "output_dir": "outputs_unconditional/RNN_Encoder_Conv_Decoder_VAE/rnn_conv_gru_ld64_b1.0_lr0.001_run1"
+}

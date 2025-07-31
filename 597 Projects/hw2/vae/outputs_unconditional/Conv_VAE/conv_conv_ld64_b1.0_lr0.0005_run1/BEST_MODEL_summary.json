@@ -1,0 +1,16 @@
+{
+    "config": {
+        "model_arch": "conv_conv",
+        "latent_dim": 64,
+        "lr": 0.0005,
+        "epochs": 500,
+        "batch_size": 64,
+        "beta": 1.0
+    },
+    "best_val_loss": 54.7577307434082,
+    "weights_path": "outputs_unconditional/Conv_VAE/conv_conv_ld64_b1.0_lr0.0005_run1/best_model_weights.pth",
+    "output_dir": "outputs_unconditional/Conv_VAE/conv_conv_ld64_b1.0_lr0.0005_run1",
+    "is_mean": 2.309375762939453,
+    "is_std": 0.30216026306152344,
+    "fid_score": 140.31419372558594
+}

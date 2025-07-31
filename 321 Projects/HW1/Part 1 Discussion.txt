@@ -1,0 +1,9 @@
+Part 1 Discussion:
+- We couldn't show that some attributes shouldn't take a NULL value, such as "Each coach **must** have only one nationality." constraint.
+- Our ER design doesn't prevent players playing in matches where there are time conflicts.
+- We were able to make sure that players play in only one position in a match session, but we couldn't prevent players from playing in a position they can't play (is registered).
+- We couldn't implement the constraint "Juries can't edit/change their ratings."
+- We couldn't implement the constraints related to the match session overlaps.
+- We can't check if a team plays in different match sessions in different stadiums at the same date and time.
+- We can't check if a player that plays in a match is registered in the team that plays in that match.
+- In the ER design, Player_Plays_In relationship has a position_ID attribute. This attribute is supposed to be a foreign key that references the position_ID attribute of the Position entity, we couldn't show this.

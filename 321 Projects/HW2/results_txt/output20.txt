@@ -1,0 +1,25 @@
+name	surname	more_than_one
+Andrea	Campbell	TRUE
+Aslı 	Kalaç	FALSE
+Ayşe 	Aykaç	FALSE
+Beatrice	Bradley	TRUE
+Betsey	Lenoir	TRUE
+Brenda	Schulz	TRUE
+Cansu 	Özbay	FALSE
+Daenerys	Targaryen	TRUE
+Derya 	Cebecioğlu	TRUE
+Ebrar 	Karakurt	TRUE
+Eda Erdem 	Dündar	FALSE
+Eileen	Ryen	TRUE
+Elif 	Şahin	TRUE
+Erika	Foley	TRUE
+Gizem 	Örge	TRUE
+Hande 	Baladın	FALSE
+İlkin 	Aydın	TRUE
+Kübra 	Akman	TRUE
+Martha	Lazo	TRUE
+Melissa 	Vargas	FALSE
+Simge 	Aköz	FALSE
+Stephanie	White	TRUE
+Wanda	Ramirez	TRUE
+Zehra 	Güneş	FALSE

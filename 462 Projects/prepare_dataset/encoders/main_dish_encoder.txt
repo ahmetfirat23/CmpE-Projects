@@ -1,0 +1,122 @@
+0: adana kofte
+1: alinazik kebabi
+2: ankara tava
+3: arnavut cigeri
+4: bahcivan kebabi
+5: balik pane
+6: beef navarin
+7: bofstrogonof
+8: ciftlik kebabi
+9: ciftlik kofte
+10: cin usulu  tavuk sote
+11: cordon bleu
+12: cordon bleu + pure
+13: dana haslama
+14: eksili kofte
+15: elbasan tava
+16: et doner
+17: et sote
+18: etli barbunya
+19: etli bezelye
+20: etli biber dolma
+21: etli guvec
+22: etli kabak dolma
+23: etli karisik dolma
+24: etli kuru fasulye
+25: etli mantar sote
+26: etli manti
+27: etli nohut
+28: etli patates musakka
+29: etli patlican dolma
+30: etli taze fasulye
+31: etli turlu
+32: etli yaprak sarma
+33: firin baget
+34: firin hindi
+35: firin kofte
+36: firin kofte + patates
+37: firin tavuk but
+38: firin tavuk sis
+39: firinda patatesli kofte yemegi
+40: garniturlu tavuk sarma
+41: hasanpasa kofte
+42: hunkar begendi
+43: icli kofte
+44: iskender kebap
+45: islim kofte
+46: ispanakli tavuk sarma
+47: izgara tavuk
+48: izmir kofte
+49: kabak begendi
+50: kabak begendili kebap
+51: kadinbudu kofte
+52: karisik musakka
+53: karniyarik
+54: kekikli misket kofte
+55: kekikli pilic kavurma
+56: kibrit kebabi
+57: kis turlusu
+58: kiymali ispanak
+59: kiymali karisik dolma
+60: kiymali karnabahar
+61: kiymali patates oturtma
+62: kiymali yesil mercimek
+63: kori soslu pilic sote
+64: kori soslu tavuk sote
+65: kremali tavuk sote
+66: kuru kofte
+67: macar gulas
+68: manisa kirkagac kofte
+69: mantar soslu tavuk
+70: meksika soslu tavuk
+71: misket kofte
+72: nohutlu kiymali ispanak yemegi
+73: nohutlu misket kofte
+74: nugget
+75: nugget + patates
+76: orman kebabi
+77: patates oturtma
+78: patlican oturtma
+79: pideli kofte
+80: pilic emense
+81: pilic kofte
+82: pilic kulbasti
+83: pilic nugget
+84: pilic portekiz
+85: pilic special but
+86: pilic topkapi
+87: pilicli patlican kebap
+88: pizza
+89: pizza + patates
+90: pureli davutpasa kofte
+91: pureli rosto kofte
+92: pureli tas kebabi
+93: rosto kofte
+94: salcali firin kofte
+95: sebzeli tavuk sote
+96: sehzade kebabi
+97: soslu mitite kofte
+98: soslu tavuk biftek
+99: sucuklu kuru fasulye
+100: sulu kofte
+101: tas kebabi
+102: tavuk baget
+103: tavuk baget haslama
+104: tavuk but kizartma
+105: tavuk doner
+106: tavuk fajita
+107: tavuk haslama
+108: tavuk izgara
+109: tavuk kok kanat
+110: tavuk kulbasti
+111: tavuk sac kavurma
+112: tavuk sandal
+113: tavuk schnitzel
+114: tavuk tava
+115: tavuklu abant kebabi
+116: tavuklu bofstraganof
+117: tavuklu mantar sote
+118: tavuklu sebze guvec
+119: tepsi kebabi
+120: yayla soslu tavuk
+121: nan

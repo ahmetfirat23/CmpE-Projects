@@ -1,0 +1,31 @@
+delete record human NedStark
+create type human 6 1 name str origin str title str age int weapon str skill str
+delete record human JonSnow
+create type human 7 1 name str origin str title str age int weapon str skill str height int
+delete record human DaenerysTargaryen
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+delete record human NedStark
+create record human JonSnow Winterfell LordCommander 22 Longclaw Swordfighting 
+search record human JonSnow
+search record dragon Viserion
+search record human Joe
+delete record human JonSnow
+search record human JonSnow
+delete record human JonSnow
+create record human JonSnow Winterfell LordCommander 22 Longclaw Swordfighting
+create record human JonSnow Winterfe LoCommander 2 Lgclaw Sdfighting
+create type dragon 2 2 name str origin str
+create type castle 3 2 name str location str ruler str
+create record dragon Viserion Valyria
+create record dragon Drogon Valyria
+create record castle Winterfell North Stark
+create record dragon Rhaegal Mahmutya
+create record castle Harrenhal Riverlands Baelish
+create record castle Harrenl Riverlands Bael
+search record dragon Viserion
+search record castle Winterfell
+search record castle Valyria
+search record dragon Valyria
+search record castle Riverlands
+delete record castle Riverlands
+search record castle Riverlands

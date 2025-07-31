@@ -1,0 +1,6 @@
+team_name	name	surname	contract_duration
+Women A	None	None	None
+Women B	None	None	None
+U19	Amicia	DeRune	1826
+U19	Oliviere	Deriviere	1826
+Women C	Mike	Hebert	841

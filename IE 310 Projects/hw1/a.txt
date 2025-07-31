@@ -1,0 +1,5 @@
+The "less than" operator (<) is not typically used as a valid constraint in linear programming (LP) because it can lead to an unbounded solution space, making the LP problem infeasible or unbounded.
+
+In LP, constraints are typically represented as linear equations or inequalities. The "less than or equal to" (≤) constraint and the "greater than or equal to" (≥) constraint are used because they define bounded regions in which the variables can vary. These constraints create a feasible solution space, which is necessary for LP optimization techniques to work effectively.
+
+Using a "less than" constraint (strict inequality) could result in a solution space where there is no feasible solution that satisfies all the constraints. It may lead to an empty or unbounded solution space, making the LP problem unsolvable or impractical. Therefore, "less than" constraints are not considered valid in typical linear programming formulations.

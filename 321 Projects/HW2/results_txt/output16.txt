@@ -1,0 +1,4 @@
+name	surname	average_rating
+Giovanni 	Guidetti	4.7
+Ferhat 	Akbaş	4.6000000000000005
+Daniele 	Santarelli	4.55

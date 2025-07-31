@@ -1,0 +1,1 @@
+{"human": {"primary_key": "name", "fields": [["name", "str"], ["origin", "str"], ["title", "str"], ["age", "int"], ["weapon", "str"], ["skill", "str"]]}, "dragon": {"primary_key": "name", "fields": [["name", "str"], ["age", "int"], ["color", "str"], ["owner", "str"], ["skill", "str"]]}}

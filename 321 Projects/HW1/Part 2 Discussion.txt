@@ -1,0 +1,14 @@
+Part 2 Discussion:
+- We made design choices on which attributes should be NOT NULL. For example, password can't be NULL, but height can be so that it can be filled after registration to the system.
+- Although we created User, Player, Coach, Jury tables, we couldn't prevent a User that is not in other tables or in multiple other tables.
+- We couldn't enforce every Player having a position_list or a team_list / having at least one position and team to play in.
+- Although we could make sure that every team that is directed by a coach is directed by a unique coach, we couldn't enforce every team being directed by a coach.
+- We couldn't enforce every match having a jury.
+- We couldn't implement the constraints related to the match session overlaps, but at least we were able to make sure match session are not in the exactly same time slot.
+
+
+Common with the Part 1 Discussion:
+- Our logical design doesn't prevent players playing in matches where there are time conflicts.
+- We were able to make sure that players play in only one position in a match session, but we couldn't prevent players from playing in a position they can't play (is registered).
+- We couldn't implement the constraint "Juries can't edit/change their ratings."
+- We can't check if a player that plays in a match is registered in the team that plays in that match.

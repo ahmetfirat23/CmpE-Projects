@@ -1,0 +1,5 @@
+session_ID	assigned_jury_username	rating	date
+6	m_sevinc	4.6	01/09/2022
+4	e_sener	4.5	03/04/2023
+7	o_ozcelik	4.7	02/05/2023
+5	s_engin	4.4	27/05/2023

@@ -1,0 +1,5 @@
+export { default as Home } from './Home'
+export { default as DBManager } from './DBManager'
+export { default as Coach } from './Coach'
+export { default as Jury } from './Jury'
+export { default as Player } from './Player'

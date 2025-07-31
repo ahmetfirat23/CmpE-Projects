@@ -1,0 +1,12 @@
+--- Grid Search Summary (Best from each family) ---
+
+Best for RNN_Encoder_Conv_Decoder_VAE:
+  Output Dir: outputs_unconditional/RNN_Encoder_Conv_Decoder_VAE/rnn_conv_gru_ld64_b1.0_lr0.001_run70
+  Metrics: Val Loss=53.9053, IS=2.546 (±0.410), FID=148.594
+  Full details in: outputs_unconditional/RNN_Encoder_Conv_Decoder_VAE/rnn_conv_gru_ld64_b1.0_lr0.001_run70/BEST_MODEL_summary_for_reporting.json
+
+Best for Conv_VAE:
+  Output Dir: outputs_unconditional/Conv_VAE/conv_conv_ld64_b1.0_lr0.0005_run10
+  Metrics: Val Loss=54.7066, IS=2.124 (±0.289), FID=152.722
+  Full details in: outputs_unconditional/Conv_VAE/conv_conv_ld64_b1.0_lr0.0005_run10/BEST_MODEL_summary_for_reporting.json
+All outputs saved in: 'outputs_unconditional'

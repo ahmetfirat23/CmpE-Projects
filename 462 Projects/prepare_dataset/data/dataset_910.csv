@@ -1,0 +1,317 @@
+date,day,campus,count,meal,soup,main_dish,vegetarian,side_dishes,dessert,weather
+2024-09-02,monday,ahisari,17,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",24.0805
+2024-09-02,monday,kuzey,268,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",24.0805
+2024-09-02,monday,guney,106,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",24.0805
+2024-09-02,monday,hisar,29,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",24.113
+2024-09-02,monday,kilyos,20,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",24.064999
+2024-09-02,monday,kandilli,54,lunch,tavuk suyu corba,rosto kofte,patates oturtma,"misirli pirinc pilavi, eriste","meyve, coban salata, ayran",23.84
+2024-09-03,tuesday,ahisari,32,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",28.905499
+2024-09-03,tuesday,kuzey,241,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",28.905499
+2024-09-03,tuesday,guney,114,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",28.905499
+2024-09-03,tuesday,hisar,44,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",28.938
+2024-09-03,tuesday,kilyos,11,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",27.314999
+2024-09-03,tuesday,kandilli,50,lunch,mahluta corba,sehzade kebabi,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","cacik, meyve, soda",28.664999
+2024-09-04,wednesday,ahisari,28,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.755499
+2024-09-04,wednesday,kuzey,281,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.755499
+2024-09-04,wednesday,guney,138,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.755499
+2024-09-04,wednesday,hisar,52,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.788
+2024-09-04,wednesday,kilyos,14,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.39
+2024-09-04,wednesday,kandilli,56,lunch,naneli yogurt corba,tavuk tava,falafel,"soslu makarna, patatesli tepsi boregi","tiramisu, ayran, mevsim salata",26.515
+2024-09-05,thursday,ahisari,22,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",26.780499
+2024-09-05,thursday,kuzey,249,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",26.780499
+2024-09-05,thursday,guney,125,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",26.780499
+2024-09-05,thursday,hisar,34,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",26.813
+2024-09-05,thursday,kilyos,12,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",24.965
+2024-09-05,thursday,kandilli,47,lunch,domates corba,pilic topkapi,harput kofte,"zy. orbit fasulye, saksuka","limonata, meyve, zerde tatlisi",26.54
+2024-09-06,friday,ahisari,29,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",27.380499
+2024-09-06,friday,kuzey,313,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",27.380499
+2024-09-06,friday,guney,150,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",27.380499
+2024-09-06,friday,hisar,37,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",27.413
+2024-09-06,friday,kilyos,15,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",25.54
+2024-09-06,friday,kandilli,62,lunch,mercimek corba,iskender kebap,bezelyeli vegan misket kofte,"bulgur pilavi, pirinc pilavi","mevsim salata, meyve, kola",27.14
+2024-09-09,monday,ahisari,47,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",25.755499
+2024-09-09,monday,kuzey,351,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",25.755499
+2024-09-09,monday,guney,85,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",25.755499
+2024-09-09,monday,hisar,42,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",25.788
+2024-09-09,monday,kilyos,17,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",24.765
+2024-09-09,monday,kandilli,61,lunch,koy corbasi,mantar soslu tavuk,mantar graten,"pirinc pilavi, domatesli bulgur pilavi","coban salata, meyve, gazoz",25.515
+2024-09-10,tuesday,ahisari,34,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",27.280499
+2024-09-10,tuesday,kuzey,243,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",27.280499
+2024-09-10,tuesday,guney,50,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",27.280499
+2024-09-10,tuesday,hisar,32,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",27.313
+2024-09-10,tuesday,kilyos,12,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",25.54
+2024-09-10,tuesday,kandilli,58,lunch,bamya corba,etli nohut,etsiz nohut,"bulgur pilavi, pirinc pilavi","yogurt, tursu, brownie",27.04
+2024-09-11,wednesday,ahisari,57,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.3055
+2024-09-11,wednesday,kuzey,295,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.3055
+2024-09-11,wednesday,guney,86,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.3055
+2024-09-11,wednesday,hisar,48,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.338001
+2024-09-11,wednesday,kilyos,17,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.665
+2024-09-11,wednesday,kandilli,60,lunch,ayranasi corba,meksika soslu tavuk,zy.mantar,"nohutlu pirinc pilavi, tepsi boregi","keskul, limonata, meyve",27.064999
+2024-09-12,thursday,ahisari,30,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",28.2305
+2024-09-12,thursday,kuzey,317,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",28.2305
+2024-09-12,thursday,guney,94,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",28.2305
+2024-09-12,thursday,hisar,36,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",28.263
+2024-09-12,thursday,kilyos,22,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",27.59
+2024-09-12,thursday,kandilli,62,lunch,cesmi nigar corba,tavuk sandal,imam bayildi,"bulgur pilavi, zerdecalli pirinc pilavi","semizotu borani, meyve, soda",27.99
+2024-09-13,friday,ahisari,29,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",30.005499
+2024-09-13,friday,kuzey,250,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",30.005499
+2024-09-13,friday,guney,67,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",30.005499
+2024-09-13,friday,hisar,41,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",30.038
+2024-09-13,friday,kilyos,11,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",29.539999
+2024-09-13,friday,kandilli,59,lunch,ezogelin corba,kabak begendi,nohutlu kabak yemegi,"sehriyeli pirinc pilavi, eriste","ayran, mevsim salata, meyve",29.765
+2024-09-16,monday,ahisari,35,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",23.3055
+2024-09-16,monday,kuzey,407,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",23.3055
+2024-09-16,monday,guney,107,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",23.3055
+2024-09-16,monday,hisar,70,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",23.338001
+2024-09-16,monday,kilyos,14,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",21.99
+2024-09-16,monday,kandilli,69,lunch,antep corba,tavuk doner,falafel,"soslu makarna, pirinc pilavi","mevsim salata, limonata, meyve",23.064999
+2024-09-17,tuesday,ahisari,31,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",23.2305
+2024-09-17,tuesday,kuzey,386,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",23.2305
+2024-09-17,tuesday,guney,7,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",23.2305
+2024-09-17,tuesday,hisar,45,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",23.263
+2024-09-17,tuesday,kilyos,9,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",22.515
+2024-09-17,tuesday,kandilli,61,lunch,brokoli corba,firin kofte,vegan kofte,"soslu makarna, garniturlu pirinc pilavi","ayran, cheescake, meyve",22.99
+2024-09-18,wednesday,ahisari,38,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",22.4805
+2024-09-18,wednesday,kuzey,411,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",22.4805
+2024-09-18,wednesday,guney,131,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",22.4805
+2024-09-18,wednesday,hisar,66,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",22.513
+2024-09-18,wednesday,kilyos,17,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",21.939999
+2024-09-18,wednesday,kandilli,68,lunch,mercimek corba,kremali tavuk sote,bezelyeli vegan misket kofte,"garniturlu pirinc pilavi, soslu spagetti","magnolia, mevsim salata, ayran",22.24
+2024-09-19,thursday,ahisari,58,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.8305
+2024-09-19,thursday,kuzey,267,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.8305
+2024-09-19,thursday,guney,111,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.8305
+2024-09-19,thursday,hisar,46,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.863
+2024-09-19,thursday,kilyos,18,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.09
+2024-09-19,thursday,kandilli,53,lunch,yayla corba,etli taze fasulye,taze fasulye,"bulgur pilavi, melek pilavi","mevsim salata, profiterol, meyve",21.59
+2024-09-20,friday,hisar,66,lunch,antep corba,mantar soslu tavuk,mantar sote,"nohutlu pirinc pilavi, soslu makarna","mevsim salata, meyve, limonata",21.838001
+2024-09-21,saturday,guney,1,dinner,mantar corba,tavuk kok kanat,semizotu yemegi,"bolonez soslu spagetti, pirinc pilavi","mevsim salata, meyve, soda",19.5805
+2024-09-23,monday,hisar,231,lunch,ayranasi corba,izmir kofte,yesil mercimek yemegi,"bulgur pilavi, ic pilavi","ayran, mevsim salata, meyve",22.113
+2024-09-24,tuesday,hisar,256,lunch,tavuk suyu corba,etli kuru fasulye,etsiz kuru fasulye,"bulgur pilavi, melek pilavi","yogurt, mevsim salata, soda",23.688
+2024-09-25,wednesday,hisar,360,lunch,suzme mercimek corba,tavuk izgara,saksuka,"patatesli tepsi boregi, sehriyeli pirinc pilavi","mevsim salata, cig kofte, ayran",24.987999
+2024-09-26,thursday,hisar,290,lunch,ezogelin corba,tas kebabi,dovmec,"yesil mercimekli bulgur pilavi, pirinc pilavi","mevsim salata, meyve, ayran",24.788
+2024-09-27,friday,hisar,205,lunch,mantar corba,et doner,mucver,"melek pilavi, soslu makarna","limonata, mevsim salata, nevzine tatlisi",25.038
+2024-09-30,monday,hisar,350,lunch,elvankiz corba,meksika soslu tavuk,etsiz taze fasulye,"bulgur pilavi, penne makarna","meyve, ayran, mevsim salata",16.563
+2024-10-01,tuesday,hisar,408,lunch,ezogelin corba,hunkar begendi,saksuka,"bulgur pilavi, melek pilavi","cacik, meyve, mevsim salata",15.963
+2024-10-02,wednesday,hisar,367,lunch,mercimek corba,pilic special but,vegan kofte,"penne makarna, garniturlu pirinc pilavi","kazandibi, mercimek kofte, kola",20.588001
+2024-10-03,thursday,hisar,347,lunch,tavuk suyu corba,adana kofte,vegan (bezelye) kofte,"soslu makarna, arpa sehriyeli pirinc pilavi","ayran, meyve, misirli salata",23.588001
+2024-10-04,friday,hisar,205,lunch,suzme mercimek corba,et doner,bamya yemegi,"pirinc pilavi, bulgur pilavi","meyve, mevsim salata, gazoz",26.888
+2024-10-04,friday,kilyos,34,lunch,suzme mercimek corba,et doner,bamya yemegi,"pirinc pilavi, bulgur pilavi","meyve, mevsim salata, gazoz",27.365
+2024-10-07,monday,hisar,297,lunch,mantar corba,etli guvec,sebze buketi,"bulgur pilavi, melek pilavi","cacik, meyve, nevzine tatlisi",20.688
+2024-10-08,tuesday,hisar,452,lunch,sehriye corba,kibrit kebabi,dovmec,"soslu makarna, arpa sehriyeli pirinc pilavi","soda, mevsim salata, meyve",22.188
+2024-10-09,wednesday,hisar,366,lunch,domates corba,kremali tavuk sote,falafel,"penne makarna, garniturlu pirinc pilavi","limonata, magnolia, mevsim salata",24.487999
+2024-10-10,thursday,hisar,300,lunch,koylu corba,firinda patatesli kofte yemegi,patates graten,"soslu makarna, su boregi","ayran, mevsim salata, peynir tatlisi",23.813
+2024-10-11,friday,hisar,180,lunch,alaca corba,macar gulas,zy.kereviz,"eriste, melek pilavi","mevsim salata, soda, sutlac",26.613
+2024-10-14,monday,hisar,361,lunch,ezogelin corba,mantar soslu tavuk,mantar sote,"bulgur pilavi, misirli pirinc pilavi","mor dunya, mercimek kofte, meyveli soda",20.088001
+2024-10-15,tuesday,hisar,331,lunch,kremali mantar corba,etli bezelye,etsiz bezelye,"kuskus, pirinc pilavi","ayran, meyve, mevsim salata",19.963001
+2024-10-16,wednesday,hisar,366,lunch,krutonlu domates corba,kekikli pilic kavurma,vegan hamburger,"nohutlu pirinc pilavi, penne makarna","cig kofte, ayran, cheesecake",16.413
+2024-10-17,thursday,hisar,313,lunch,tarhana corba,tas kebabi,falafel,"melek pilavi, eriste","portakalli gazoz, mevsim salata, meyve",13.913
+2024-10-18,friday,hisar,147,lunch,alaca corba,tavuk doner,dovmec,"bulgur pilavi, pirinc pilavi","ayran, meyve, hayrabolu tatlisi",13.438
+2024-10-21,monday,hisar,267,lunch,mercimek corba,orman kebabi,bezelye yemegi,"bulgur pilavi, pirinc pilavi","yogurt, meyve, cheesecake",15.038
+2024-10-22,tuesday,hisar,379,lunch,mengen corba,rosto kofte,falafel,"melek pilavi, bulgur pilavi","ayran, mevsim salata, meyve",16.988
+2024-10-23,wednesday,hisar,361,lunch,suzme mercimek corba,izgara tavuk,zy. patlican,"garniturlu pirinc pilavi, soslu makarna","kola, havuc tarator, trilece",17.138
+2024-10-24,thursday,hisar,194,lunch,tavuk suyu corba,etli taze fasulye,taze fasulye yemegi,"domatesli bulgur pilavi, zerdecalli pirinc pilavi","yogurt, meyve, hayrabolu tatlisi",16.713001
+2024-10-25,friday,hisar,159,lunch,mahluta corba,et doner,mucver,"pirinc pilavi, bulgur pilavi","kisir, kola, mevsim salata",16.138
+2024-10-25,friday,kilyos,54,dinner,domates corba,cordon bleu + pure,sebze buketi,"soslu makarna, gul boregi","meyve, gazoz, amerikan salata",14.290001
+2024-10-28,monday,hisar,61,lunch,kis corbasi,etli kuru fasulye,etsiz kuru fasulye,"bulgur pilavi, pirinc pilavi","ayran, tursu, mevsim salata",18.613
+2024-09-20,friday,ahisari,55,breakfast,pisi,salatalik,,"kasar peynir, tereyagi, labne","recel, sutlu gevrek",23.280499
+2024-09-20,friday,kuzey,48,breakfast,pisi,salatalik,,"kasar peynir, tereyagi, labne","recel, sutlu gevrek",23.280499
+2024-09-20,friday,guney,23,breakfast,pisi,salatalik,,"kasar peynir, tereyagi, labne","recel, sutlu gevrek",23.280499
+2024-09-20,friday,kilyos,15,breakfast,pisi,salatalik,,"kasar peynir, tereyagi, labne","recel, sutlu gevrek",23.14
+2024-09-20,friday,kandilli,47,breakfast,pisi,salatalik,,"kasar peynir, tereyagi, labne","recel, sutlu gevrek",23.04
+2024-09-21,saturday,ahisari,86,breakfast,patates kizartmasi,yesil zeytin,,"siyah zeytin, domates, salatalik, tahin helva, yumurta, sutlu gevrek","beyaz peynir, tereyagi, bal",20.405499
+2024-09-21,saturday,kuzey,95,breakfast,patates kizartmasi,yesil zeytin,,"siyah zeytin, domates, salatalik, tahin helva, yumurta, sutlu gevrek","beyaz peynir, tereyagi, bal",20.405499
+2024-09-21,saturday,kilyos,16,breakfast,patates kizartmasi,yesil zeytin,,"siyah zeytin, domates, salatalik, tahin helva, yumurta, sutlu gevrek","beyaz peynir, tereyagi, bal",21.39
+2024-09-21,saturday,kandilli,87,breakfast,patates kizartmasi,yesil zeytin,,"siyah zeytin, domates, salatalik, tahin helva, yumurta, sutlu gevrek","beyaz peynir, tereyagi, bal",20.165
+2024-09-22,sunday,ahisari,135,breakfast,,corba,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","recel, labne, tahin-pekmez",23.1805
+2024-09-22,sunday,kuzey,126,breakfast,,corba,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","recel, labne, tahin-pekmez",23.1805
+2024-09-22,sunday,guney,8,breakfast,,corba,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","recel, labne, tahin-pekmez",23.1805
+2024-09-22,sunday,kilyos,24,breakfast,,corba,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","recel, labne, tahin-pekmez",23.465
+2024-09-22,sunday,kandilli,129,breakfast,,corba,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","recel, labne, tahin-pekmez",22.94
+2024-09-23,monday,ahisari,357,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",23.030499
+2024-09-23,monday,kuzey,463,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",23.030499
+2024-09-23,monday,guney,231,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",23.030499
+2024-09-23,monday,kilyos,26,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",22.515
+2024-09-23,monday,kandilli,142,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",22.79
+2024-09-24,tuesday,ahisari,146,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tahin helva, tereyag, recel",23.6805
+2024-09-24,tuesday,kuzey,445,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tahin helva, tereyag, recel",23.6805
+2024-09-24,tuesday,guney,206,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tahin helva, tereyag, recel",23.6805
+2024-09-24,tuesday,kilyos,38,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tahin helva, tereyag, recel",22.99
+2024-09-24,tuesday,kandilli,126,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tahin helva, tereyag, recel",23.439999
+2024-09-25,wednesday,ahisari,91,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates","salatalik, kasar peynir, sutlu gevrek",24.8305
+2024-09-25,wednesday,kuzey,364,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates","salatalik, kasar peynir, sutlu gevrek",24.8305
+2024-09-25,wednesday,guney,173,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates","salatalik, kasar peynir, sutlu gevrek",24.8305
+2024-09-25,wednesday,kilyos,27,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates","salatalik, kasar peynir, sutlu gevrek",23.814999
+2024-09-25,wednesday,kandilli,88,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates","salatalik, kasar peynir, sutlu gevrek",24.59
+2024-09-26,thursday,ahisari,79,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, tahin helva","labne, beyaz peynir",24.7555
+2024-09-26,thursday,kuzey,342,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, tahin helva","labne, beyaz peynir",24.7555
+2024-09-26,thursday,guney,145,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, tahin helva","labne, beyaz peynir",24.7555
+2024-09-26,thursday,kilyos,34,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, tahin helva","labne, beyaz peynir",23.414999
+2024-09-26,thursday,kandilli,96,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, tahin helva","labne, beyaz peynir",24.515
+2024-09-27,friday,ahisari,304,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","sutlu gevrek, kasar peynir",24.830498
+2024-09-27,friday,kuzey,253,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","sutlu gevrek, kasar peynir",24.830498
+2024-09-27,friday,guney,126,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","sutlu gevrek, kasar peynir",24.830498
+2024-09-27,friday,kilyos,35,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","sutlu gevrek, kasar peynir",23.364998
+2024-09-27,friday,kandilli,119,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","sutlu gevrek, kasar peynir",24.59
+2024-09-28,saturday,ahisari,56,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","beyaz peynir, tahin helva",26.030499
+2024-09-28,saturday,kuzey,144,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","beyaz peynir, tahin helva",26.030499
+2024-09-28,saturday,guney,91,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","beyaz peynir, tahin helva",26.030499
+2024-09-28,saturday,kilyos,39,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","beyaz peynir, tahin helva",24.165
+2024-09-28,saturday,kandilli,58,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik","beyaz peynir, tahin helva",25.79
+2024-09-29,sunday,ahisari,58,breakfast,,corba,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek, kasar peynir","recel, labne, tahin-pekmez",25.0555
+2024-09-29,sunday,kuzey,121,breakfast,,corba,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek, kasar peynir","recel, labne, tahin-pekmez",25.0555
+2024-09-29,sunday,guney,81,breakfast,,corba,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek, kasar peynir","recel, labne, tahin-pekmez",25.0555
+2024-09-29,sunday,kilyos,39,breakfast,,corba,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek, kasar peynir","recel, labne, tahin-pekmez",25.439999
+2024-09-29,sunday,kandilli,64,breakfast,,corba,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek, kasar peynir","recel, labne, tahin-pekmez",24.814999
+2024-09-30,monday,ahisari,349,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",17.880499
+2024-09-30,monday,kuzey,433,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",17.880499
+2024-09-30,monday,guney,174,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",17.880499
+2024-09-30,monday,kilyos,26,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",17.939999
+2024-09-30,monday,kandilli,111,breakfast,,pogaca + acma,yumurta,"domates, salatalik, sutlu gevrek, kasar peynir, yesil zeytin, siyah zeytin","findik kremasi, tereyagi, bal",17.64
+2024-10-01,tuesday,ahisari,386,breakfast,corba,patates,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.0055
+2024-10-01,tuesday,kuzey,423,breakfast,corba,patates,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.0055
+2024-10-01,tuesday,guney,189,breakfast,corba,patates,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.0055
+2024-10-01,tuesday,kilyos,33,breakfast,corba,patates,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.54
+2024-10-01,tuesday,kandilli,52,breakfast,corba,patates,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.765
+2024-10-02,wednesday,ahisari,412,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",19.7305
+2024-10-02,wednesday,kuzey,372,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",19.7305
+2024-10-02,wednesday,guney,159,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",19.7305
+2024-10-02,wednesday,kilyos,34,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",19.165
+2024-10-02,wednesday,kandilli,52,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",19.49
+2024-10-03,thursday,ahisari,392,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",22.280499
+2024-10-03,thursday,kuzey,367,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",22.280499
+2024-10-03,thursday,guney,151,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",22.280499
+2024-10-03,thursday,kilyos,51,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",22.89
+2024-10-03,thursday,kandilli,38,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",22.04
+2024-10-04,friday,ahisari,366,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",25.6305
+2024-10-04,friday,kuzey,270,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",25.6305
+2024-10-04,friday,guney,127,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",25.6305
+2024-10-04,friday,kandilli,28,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",25.39
+2024-10-05,saturday,ahisari,57,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal, helva",29.1055
+2024-10-05,saturday,kuzey,149,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal, helva",29.1055
+2024-10-05,saturday,guney,91,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal, helva",29.1055
+2024-10-05,saturday,kilyos,45,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal, helva",28.965
+2024-10-05,saturday,kandilli,63,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal, helva",28.865
+2024-10-06,sunday,ahisari,44,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, recel, tahin-pekmez",24.1805
+2024-10-06,sunday,kuzey,153,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, recel, tahin-pekmez",24.1805
+2024-10-06,sunday,guney,95,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, recel, tahin-pekmez",24.1805
+2024-10-06,sunday,kilyos,48,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, recel, tahin-pekmez",23.689999
+2024-10-06,sunday,kandilli,74,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, recel, tahin-pekmez",23.939999
+2024-10-07,monday,ahisari,358,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",20.1055
+2024-10-07,monday,kuzey,398,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",20.1055
+2024-10-07,monday,guney,172,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",20.1055
+2024-10-07,monday,kilyos,46,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",20.14
+2024-10-07,monday,kandilli,46,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.865
+2024-10-08,tuesday,ahisari,412,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",22.1055
+2024-10-08,tuesday,kuzey,428,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",22.1055
+2024-10-08,tuesday,guney,180,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",22.1055
+2024-10-08,tuesday,kilyos,73,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",21.29
+2024-10-08,tuesday,kandilli,37,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",21.865
+2024-10-09,wednesday,ahisari,387,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",23.1805
+2024-10-09,wednesday,kuzey,396,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",23.1805
+2024-10-09,wednesday,guney,156,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",23.1805
+2024-10-09,wednesday,kilyos,48,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",24.064999
+2024-10-09,wednesday,kandilli,31,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",22.939999
+2024-10-10,thursday,ahisari,360,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",23.8055
+2024-10-10,thursday,kuzey,364,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",23.8055
+2024-10-10,thursday,guney,177,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",23.8055
+2024-10-10,thursday,kilyos,52,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",24.615
+2024-10-10,thursday,kandilli,35,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",23.564999
+2024-10-11,friday,ahisari,360,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",24.955498
+2024-10-11,friday,kuzey,292,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",24.955498
+2024-10-11,friday,guney,137,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",24.955498
+2024-10-11,friday,kilyos,39,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",25.689999
+2024-10-11,friday,kandilli,37,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",24.715
+2024-10-12,saturday,ahisari,49,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",20.3055
+2024-10-12,saturday,kuzey,158,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",20.3055
+2024-10-12,saturday,guney,91,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",20.3055
+2024-10-12,saturday,kilyos,35,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",20.54
+2024-10-12,saturday,kandilli,66,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",20.065
+2024-10-13,sunday,ahisari,49,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",17.9555
+2024-10-13,sunday,kuzey,144,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",17.9555
+2024-10-13,sunday,guney,94,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",17.9555
+2024-10-13,sunday,kilyos,36,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",17.74
+2024-10-13,sunday,kandilli,62,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",17.715
+2024-10-14,monday,ahisari,367,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.5805
+2024-10-14,monday,kuzey,354,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.5805
+2024-10-14,monday,guney,172,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.5805
+2024-10-14,monday,kilyos,40,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.165
+2024-10-14,monday,kandilli,35,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",19.34
+2024-10-15,tuesday,ahisari,386,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",19.780499
+2024-10-15,tuesday,kuzey,379,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",19.780499
+2024-10-15,tuesday,guney,174,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",19.780499
+2024-10-15,tuesday,kilyos,43,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",19.539999
+2024-10-15,tuesday,kandilli,45,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",19.54
+2024-10-16,wednesday,ahisari,346,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, tahin-pekmez, recel",19.5805
+2024-10-16,wednesday,kuzey,347,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, tahin-pekmez, recel",19.5805
+2024-10-16,wednesday,guney,141,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, tahin-pekmez, recel",19.5805
+2024-10-16,wednesday,kilyos,51,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, tahin-pekmez, recel",19.04
+2024-10-16,wednesday,kandilli,38,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, tahin-pekmez, recel",19.34
+2024-10-17,thursday,ahisari,309,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",14.505501
+2024-10-17,thursday,kuzey,332,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",14.505501
+2024-10-17,thursday,guney,145,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",14.505501
+2024-10-17,thursday,kilyos,47,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",14.915001
+2024-10-17,thursday,kandilli,36,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",14.264999
+2024-10-18,friday,ahisari,369,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.130501
+2024-10-18,friday,kuzey,303,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.130501
+2024-10-18,friday,guney,125,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.130501
+2024-10-18,friday,kilyos,40,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",14.940001
+2024-10-18,friday,kandilli,25,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",14.889999
+2024-10-19,saturday,ahisari,64,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",14.505501
+2024-10-19,saturday,kuzey,178,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",14.505501
+2024-10-19,saturday,guney,84,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",14.505501
+2024-10-19,saturday,kilyos,38,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",14.84
+2024-10-19,saturday,kandilli,55,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",14.264999
+2024-10-20,sunday,ahisari,71,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",14.880501
+2024-10-20,sunday,kuzey,181,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",14.880501
+2024-10-20,sunday,guney,106,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",14.880501
+2024-10-20,sunday,kilyos,45,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",14.965
+2024-10-20,sunday,kandilli,81,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, tahin-pekmez, helva",14.639999
+2024-10-21,monday,ahisari,353,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",14.9055
+2024-10-21,monday,kuzey,403,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",14.9055
+2024-10-21,monday,guney,155,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",14.9055
+2024-10-21,monday,kilyos,42,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",14.940001
+2024-10-21,monday,kandilli,33,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",14.664999
+2024-10-22,tuesday,ahisari,384,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.8055
+2024-10-22,tuesday,kuzey,395,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.8055
+2024-10-22,tuesday,guney,167,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.8055
+2024-10-22,tuesday,kilyos,55,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.765
+2024-10-22,tuesday,kandilli,29,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",16.564999
+2024-10-23,wednesday,ahisari,412,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.880499
+2024-10-23,wednesday,kuzey,341,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.880499
+2024-10-23,wednesday,guney,120,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.880499
+2024-10-23,wednesday,kilyos,40,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.864998
+2024-10-23,wednesday,kandilli,45,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.64
+2024-10-24,thursday,ahisari,317,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",17.0055
+2024-10-24,thursday,kuzey,341,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",17.0055
+2024-10-24,thursday,guney,138,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",17.0055
+2024-10-24,thursday,kilyos,43,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",16.614998
+2024-10-24,thursday,kandilli,31,breakfast,,acma/simit,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, labne, findik ezme, helva",16.765
+2024-10-25,friday,ahisari,310,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.6805
+2024-10-25,friday,kuzey,287,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.6805
+2024-10-25,friday,guney,125,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.6805
+2024-10-25,friday,kandilli,29,breakfast,,pisi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, krem peynir, tereyag, recel",15.44
+2024-10-26,saturday,ahisari,31,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",16.830498
+2024-10-26,saturday,kuzey,136,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",16.830498
+2024-10-26,saturday,guney,81,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",16.830498
+2024-10-26,saturday,kilyos,38,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",16.74
+2024-10-26,saturday,kandilli,51,breakfast,corba,su boregi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, bal",16.59
+2024-10-27,sunday,ahisari,34,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, helva, tahin-pekmez",17.530499
+2024-10-27,sunday,kuzey,116,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, helva, tahin-pekmez",17.530499
+2024-10-27,sunday,guney,66,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, helva, tahin-pekmez",17.530499
+2024-10-27,sunday,kilyos,33,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, helva, tahin-pekmez",17.414999
+2024-10-27,sunday,kandilli,34,breakfast,,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, labne, helva, tahin-pekmez",17.29
+2024-10-28,monday,ahisari,22,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",17.2055
+2024-10-28,monday,kuzey,211,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",17.2055
+2024-10-28,monday,guney,74,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",17.2055
+2024-10-28,monday,kilyos,40,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",17.265
+2024-10-28,monday,kandilli,39,breakfast,,simit / pogaca,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, bal, findik ezme",16.965
+2024-10-29,tuesday,ahisari,18,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.405499
+2024-10-29,tuesday,kuzey,143,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.405499
+2024-10-29,tuesday,guney,63,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.405499
+2024-10-29,tuesday,kilyos,37,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.265
+2024-10-29,tuesday,kandilli,46,breakfast,corba,patates kizartmasi,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","beyaz peynir, tereyag, recel",17.165
+2024-10-30,wednesday,ahisari,281,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.8555
+2024-10-30,wednesday,kuzey,181,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.8555
+2024-10-30,wednesday,guney,71,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.8555
+2024-10-30,wednesday,kilyos,12,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.49
+2024-10-30,wednesday,kandilli,30,breakfast,,menemen,yumurta,"yesil zeytin, siyah zeytin, domates, salatalik, sutlu gevrek","kasar peynir, tereyag, recel, tahin-pekmez",16.615

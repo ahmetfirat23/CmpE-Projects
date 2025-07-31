@@ -1,0 +1,186 @@
+0: arpa sehriye pilavi, bulgur pilavi
+1: arpa sehriye pilavi, melek pilavi
+2: arpa sehriye pilavi, mercimekli bulgur pilavi
+3: arpa sehriyeli pirinc pilavi, bulgur pilavi
+4: arpa sehriyeli pirinc pilavi, mercimekli bulgur pilavi
+5: bolonez soslu makarna, garniturlu pirinc pilavi
+6: bolonez soslu spagetti, pirinc pilavi
+7: bulgur pilavi
+8: bulgur pilavi, boncuk makarna
+9: bulgur pilavi, gokkusagi pilavi
+10: bulgur pilavi, gul boregi
+11: bulgur pilavi, ic pilavi
+12: bulgur pilavi, melek pilavi
+13: bulgur pilavi, misirli pirinc pilavi
+14: bulgur pilavi, napoliten soslu makarna
+15: bulgur pilavi, nohutlu pirinc pilavi
+16: bulgur pilavi, penne makarna
+17: bulgur pilavi, pirinc pilavi
+18: bulgur pilavi, sehriyeli pirinc pilavi
+19: bulgur pilavi, su boregi
+20: bulgur pilavi, zerdecalli pirinc pilavi
+21: domatesli arpa sehriye pilavi, melek pilavi
+22: domatesli bulgur pilavi, pirinc pilavi
+23: domatesli bulgur pilavi, zerdecalli pirinc pilavi
+24: eriste
+25: eriste, cig kofte
+26: eriste, garniturlu pirinc pilavi
+27: eriste, gokkusagi pilavi
+28: eriste, kol boregi
+29: eriste, melek pilavi
+30: eriste, meyhane pilavi
+31: eriste, su boregi
+32: eriste, tepsi boregi
+33: eristeli bulgur pilavi
+34: firin makarna
+35: firin makarna, arpa sehriyeli pilav
+36: firin makarna, nohutlu pirinc pilavi
+37: firin makarna, zerdecalli pirinc pilavi
+38: firin makarna, zy.orbit fasulye
+39: garniturlu pirinc pilavi, domates soslu makarna
+40: garniturlu pirinc pilavi, kori soslu makarna
+41: garniturlu pirinc pilavi, soslu makarna
+42: garniturlu pirinc pilavi, soslu spagetti
+43: gokkusagi pilavi, bulgur pilavi
+44: gul boregi
+45: gul boregi, eriste
+46: gul boregi, soslu makarna
+47: gul boregi, soslu spagetti
+48: gul boregi, spagetti makarna
+49: gul boregi, zy.barbunya
+50: havuclu pirinc pilavi, eriste
+51: ic pilavi, cevizli eriste
+52: ic pilavi, eriste makarna
+53: karisik kizartma, soslu makarna
+54: kol boregi, spagetti makarna
+55: kori soslu makarna
+56: kori soslu makarna, melek pilavi
+57: kuskus
+58: kuskus makarna
+59: kuskus makarna, gul boregi
+60: kuskus, bulgur pilavi
+61: kuskus, pirinc pilavi
+62: melek pilavi, bulgur pilavi
+63: melek pilavi, domatesli bulgur pilavi
+64: melek pilavi, eriste
+65: melek pilavi, pirinc pilavi
+66: melek pilavi, sebzeli bulgur pilavi
+67: melek pilavi, soslu makarna
+68: mercimekli bulgur pilavi
+69: mercimekli bulgur pilavi, melek pilavi
+70: mercimekli bulgur pilavi, pirinc pilavi
+71: mercimekli bulgur pilavi, zerdecalli pirinc pilavi
+72: meyhane pilavi
+73: meyhane pilavi, melek pilavi
+74: meyhane pilavi, misirli pirinc pilavi
+75: meyhane pilavi, pirinc pilavi
+76: misirli eriste, garniturlu pirinc pilavi
+77: misirli pirinc pilavi, bulgur pilavi
+78: misirli pirinc pilavi, eriste
+79: misirli pirinc pilavi, makarna
+80: misirli pirinc pilavi, meyhane pilavi
+81: misirli pirinc pilavi, penne makarna
+82: misirli pirinc pilavi, soslu makarna
+83: misirli pirinc pilavi, soslu spagetti
+84: misirli pirinc pilavi, spagetti makarna
+85: napoliten soslu makarna
+86: napoliten soslu makarna, garniturlu pirinc pilavi
+87: nohutlu pilav, eriste
+88: nohutlu pirinc pilavi, bulgur pilavi
+89: nohutlu pirinc pilavi, domates soslu makarna
+90: nohutlu pirinc pilavi, eriste
+91: nohutlu pirinc pilavi, kuskus
+92: nohutlu pirinc pilavi, mercimekli bulgur pilavi
+93: nohutlu pirinc pilavi, penne makarna
+94: nohutlu pirinc pilavi, soslu makarna
+95: nohutlu pirinc pilavi, tepsi boregi
+96: patatesli gul boregi, soslu spagetti
+97: patatesli tepsi boregi, sehriyeli pirinc pilavi
+98: penne makarna, garniturlu pirinc pilavi
+99: penne makarna, melek pilavi
+100: penne makarna, misirli pirinc pilavi
+101: penne makarna, pirinc pilavi
+102: peynirli makarna
+103: peynirli makarna, pirinc pilavi
+104: peynirli makarna, sehriyeli pirinc pilavi
+105: peynirli makarna, zy. orbit fasulye
+106: pirinc pilavi, bulgur pilavi
+107: pirinc pilavi, domatesli bulgur pilavi
+108: pirinc pilavi, eriste
+109: pirinc pilavi, soslu makarna
+110: pirinc pilavi, zy. orbit fasulye
+111: saksuka, mucver
+112: saksuka, zy.barbunya
+113: sark pilavi, nohutlu pirinc pilavi
+114: sebzeli bulgur pilavi
+115: sebzeli pirinc pilavi, penne makarna
+116: sehriyeli pirinc pilavi, bulgur pilavi
+117: sehriyeli pirinc pilavi, eriste
+118: sehriyeli pirinc pilavi, mercimekli bulgur pilavi
+119: sehriyeli pirinc pilavi, nohutlu bulgur pilavi
+120: sehriyeli pirinc pilavi, soslu makarna
+121: sogan halkasi
+122: sogan halkasi, zy. orbit fasulye
+123: sogan halkasi, zy.barbunya
+124: sogan halkasi, zy.enginar
+125: soslu makarna
+126: soslu makarna, arpa sehriye pilavi
+127: soslu makarna, arpa sehriyeli pirinc pilavi
+128: soslu makarna, bulgur pilavi
+129: soslu makarna, garniturlu pirinc pilavi
+130: soslu makarna, gul boregi
+131: soslu makarna, kus uzumlu pirinc pilavi
+132: soslu makarna, melek pilavi
+133: soslu makarna, misirli pirinc pilavi
+134: soslu makarna, nohutlu pirinc pilavi
+135: soslu makarna, patatesli tepsi boregi
+136: soslu makarna, pirinc pilavi
+137: soslu makarna, sebzeli pirinc pilavi
+138: soslu makarna, su boregi
+139: soslu makarna, yesil mercimekli bulgur pilavi
+140: soslu makarna, zerdecalli pirinc pilavi
+141: soslu makarna, zy.barbunya
+142: soslu spagetti
+143: soslu spagetti, melek pilavi
+144: soslu spagetti, nohutlu pirinc pilavi
+145: soslu spagetti, pirinc pilavi
+146: soslu spagetti, su boregi
+147: soslu spagetti, zy.orbit fasulye
+148: spagetti makarna
+149: spagetti makarna, gul boregi
+150: spagetti makarna, melek pilavi
+151: spagetti makarna, pirinc pilavi
+152: spagetti makarna, zerdecalli pirinc pilavi
+153: su boregi
+154: su boregi, cevizli eriste
+155: su boregi, eriste
+156: su boregi, makarna
+157: su boregi, mantar soslu makarna
+158: su boregi, nohutlu pirinc pilavi
+159: su boregi, pirinc pilavi
+160: su boregi, soslu makarna
+161: su boregi, soslu spagetti
+162: su boregi, zerdecalli pirinc pilavi
+163: tepsi boregi, eriste
+164: yesil mercimekli bulgur pilavi
+165: yesil mercimekli bulgur pilavi, pirinc pilavi
+166: zerdecalli makarna
+167: zerdecalli pirinc pilavi, arpa sehriye pilavi
+168: zerdecalli pirinc pilavi, bulgur pilavi
+169: zerdecalli pirinc pilavi, kuskus
+170: zerdecalli pirinc pilavi, meyhane pilavi
+171: zeytinyagli barbunya, saksuka
+172: zy. orbit fasulye, karisik kizartma
+173: zy. orbit fasulye, saksuka
+174: zy. orbit fasulye, sogan halkasi
+175: zy. orbit fasulye, soslu makarna
+176: zy. taze fasulye, zy. bruksel lahana
+177: zy.barbunya
+178: zy.barbunya, ispanakli gul boregi
+179: zy.barbunya, zy. bruksel lahana
+180: zy.barbunya, zy. orbit fasulye
+181: zy.kereviz, zy. brokoli
+182: zy.orbit fasulye
+183: zy.orbit fasulye, sogan halkasi
+184: zy.orbit fasulye, zy.patlican dolma
+185: zy.taze fasulye, zy.barbunya

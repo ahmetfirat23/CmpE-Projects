@@ -1,0 +1,3 @@
+session_ID	team_ID	stadium_ID	stadium_name	stadium_country	time_slot	date	assigned_jury_username	rating
+2	0	1	GD Voleybol Arena	TR	3	03.04.2024	o_ozcelik	4.4
+5	3	1	GD Voleybol Arena	TR	1	27.05.2023	s_engin	4.4

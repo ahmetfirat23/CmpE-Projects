@@ -1,0 +1,22 @@
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+/media/
+.vscode
+data/
+
+*/.env
+
+__pycache__
+
+project/Mobile/node_modules/
+project/Mobile/package-lock.json
+project/Mobile/yarn.lock

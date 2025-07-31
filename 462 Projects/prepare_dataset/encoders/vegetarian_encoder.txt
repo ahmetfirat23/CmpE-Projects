@@ -1,0 +1,78 @@
+0: bamya yemegi
+1: bezelye yemegi
+2: bezelyeli vegan misket kofte
+3: bruksel lahana
+4: bugdayli nohutlu ispanak
+5: bugdayli pazi
+6: bugdayli semizotu yemegi
+7: bulgur kofte
+8: dovmec
+9: etsiz barbunya
+10: etsiz bezelye
+11: etsiz guvec
+12: etsiz kapuska
+13: etsiz kuru fasulye
+14: etsiz nohut
+15: etsiz patates graten
+16: etsiz patates yemegi
+17: etsiz taze fasulye
+18: falafel
+19: gemici usulu kuru fasulye
+20: harput kofte
+21: imambayildi
+22: ispanak graten
+23: ispanak yemegi
+24: kabak kalye
+25: karnabahar graten
+26: karnabahar yemegi
+27: kereviz yemegi
+28: mantar graten
+29: mantar sote
+30: mantar yemegi
+31: mucver
+32: nohut yemegi
+33: nohutlu ispanak yemegi
+34: nohutlu kabak
+35: nohutlu kabak yemegi
+36: patates graten
+37: patates oturtma
+38: patates yemegi
+39: patatesli mantar graten
+40: patlican tava
+41: patlican yemegi
+42: pirasa yemegi
+43: saksuka
+44: sebze buketi
+45: sebze graten
+46: sebze guvec
+47: sebze sote
+48: sebze turlu
+49: sebze yemegi
+50: sebzeli mantar graten
+51: sebzeli mantar sote
+52: semizotu yemegi
+53: sicak barbunya
+54: taze fasulye yemegi
+55: vegan (bezelye) kofte
+56: vegan hamburger
+57: vegan kofte
+58: vegan manti
+59: vejetaryen manti
+60: yesil mercimek
+61: yesil mercimek yemegi
+62: zy. bruksel lahanasi
+63: zy. patlican
+64: zy. patlican dolma
+65: zy.bamya
+66: zy.barbunya
+67: zy.brokoli
+68: zy.dolma
+69: zy.enginar
+70: zy.kabak dolma
+71: zy.karnabahar
+72: zy.kereviz
+73: zy.mantar
+74: zy.orbit fasulye
+75: zy.pirasa
+76: zy.taze fasulye
+77: zy.yaprak sarma

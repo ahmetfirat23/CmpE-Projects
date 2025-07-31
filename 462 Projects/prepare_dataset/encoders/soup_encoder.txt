@@ -1,0 +1,50 @@
+0: alaca corba
+1: anadolu corbasi
+2: andaloz corba
+3: antep corba
+4: arpa sehriyeli corba
+5: ayranasi corba
+6: bamya corba
+7: brokoli corba
+8: bugday corba
+9: cennet corba
+10: cerkez corba
+11: cesmi nigar corba
+12: domates corba
+13: dugun corba
+14: elvankiz corba
+15: ezogelin corba
+16: gendime corba
+17: kabak corba
+18: kafkas corba
+19: kis corbasi
+20: koy corbasi
+21: koylu corba
+22: kremali kabak corba + vegan corba
+23: kremali mantar corba
+24: krutonlu domates corba
+25: krutonlu mercimek corba
+26: mahluta corba
+27: mantar corba
+28: mengen corba
+29: mercimek corba
+30: naneli yogurt corba
+31: romen corba
+32: safak corba
+33: saray corba
+34: sebze corba
+35: sef'in corbasi
+36: sefim corba
+37: sehriye corba
+38: soguk ayranasi corba
+39: suleymaniye corba
+40: sultan corba
+41: suzme mercimek corba
+42: tarhana corba
+43: tavuk suyu corba
+44: toyga corba
+45: tutmac corba
+46: vitamin corba
+47: yayla corba
+48: yogurtlu nane corba
+49: nan

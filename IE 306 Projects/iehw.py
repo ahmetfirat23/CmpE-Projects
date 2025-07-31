@@ -1,0 +1,46 @@
+
+import openpyxl
+
+my_excel = openpyxl.load_workbook('IEHW1.xlsx')
+my_sheet = my_excel.active
+
+for n in range(1000):
+    my_sheet.cell(n+1,1,5000)
+    my_sheet.cell(n+1,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+1,3, f'=IF(B{n+1}>=A{n+1},125*A{n+1}-100*A{n+1}-100000,125*B{n+1}-100*A{n+1}+27.5*(A{n+1}-B{n+1})-100000)')
+    my_sheet.cell(n+1001,1,6000)
+    my_sheet.cell(n+1001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+1001,3, f'=IF(B{n+1001}>=A{n+1001},125*A{n+1001}-100*A{n+1001}-100000,125*B{n+1001}-100*A{n+1001}+27.5*(A{n+1001}-B{n+1001})-100000)')
+    my_sheet.cell(n+2001,1,7000)
+    my_sheet.cell(n+2001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+2001,3, f'=IF(B{n+2001}>=A{n+2001},125*A{n+2001}-100*A{n+2001}-100000,125*B{n+2001}-100*A{n+2001}+27.5*(A{n+2001}-B{n+2001})-100000)')
+    my_sheet.cell(n+3001,1,8000)
+    my_sheet.cell(n+3001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+3001,3, f'=IF(B{n+3001}>=A{n+3001},125*A{n+3001}-100*A{n+3001}-100000,125*B{n+3001}-100*A{n+3001}+27.5*(A{n+3001}-B{n+3001})-100000)')
+    my_sheet.cell(n+4001,1,9000)
+    my_sheet.cell(n+4001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+4001,3, f'=IF(B{n+4001}>=A{n+4001},125*A{n+4001}-100*A{n+4001}-100000,125*B{n+4001}-100*A{n+4001}+27.5*(A{n+4001}-B{n+4001})-100000)')
+    my_sheet.cell(n+5001,1,10000)
+    my_sheet.cell(n+5001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+5001,3, f'=IF(B{n+5001}>=A{n+5001},125*A{n+5001}-100*A{n+5001}-100000,125*B{n+5001}-100*A{n+5001}+27.5*(A{n+5001}-B{n+5001})-100000)')
+    my_sheet.cell(n+6001,1,11000)
+    my_sheet.cell(n+6001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+6001,3, f'=IF(B{n+6001}>=A{n+6001},125*A{n+6001}-100*A{n+6001}-100000,125*B{n+6001}-100*A{n+6001}+27.5*(A{n+6001}-B{n+6001})-100000)')
+    my_sheet.cell(n+7001,1,12000)
+    my_sheet.cell(n+7001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+7001,3, f'=IF(B{n+7001}>=A{n+7001},125*A{n+7001}-100*A{n+7001}-100000,125*B{n+7001}-100*A{n+7001}+27.5*(A{n+7001}-B{n+7001})-100000)')
+    my_sheet.cell(n+8001,1,13000)
+    my_sheet.cell(n+8001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+8001,3, f'=IF(B{n+8001}>=A{n+8001},125*A{n+8001}-100*A{n+8001}-100000,125*B{n+8001}-100*A{n+8001}+27.5*(A{n+8001}-B{n+8001})-100000)')
+    my_sheet.cell(n+9001,1,14000)
+    my_sheet.cell(n+9001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+9001,3, f'=IF(B{n+9001}>=A{n+9001},125*A{n+9001}-100*A{n+9001}-100000,125*B{n+9001}-100*A{n+9001}+27.5*(A{n+9001}-B{n+9001})-100000)')
+    my_sheet.cell(n+10001,1,15000)
+    my_sheet.cell(n+10001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+10001,3, f'=IF(B{n+10001}>=A{n+10001},125*A{n+10001}-100*A{n+10001}-100000,125*B{n+10001}-100*A{n+10001}+27.5*(A{n+10001}-B{n+10001})-100000)')
+    my_sheet.cell(n+11001,1,16000)
+    my_sheet.cell(n+11001,2, '= 12000 + 2750 * NORMSINV(RAND())')
+    my_sheet.cell(n+11001,3, f'=IF(B{n+11001}>=A{n+11001},125*A{n+11001}-100*A{n+11001}-100000,125*B{n+11001}-100*A{n+11001}+27.5*(A{n+11001}-B{n+11001})-100000)')
+
+
+my_excel.save('IEHW1.xlsx')

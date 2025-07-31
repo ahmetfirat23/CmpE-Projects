@@ -1,0 +1,6 @@
+name	surname
+Simge 	Aköz
+Ayşe 	Aykaç
+Andrea	Campbell
+Betsey	Lenoir
+Gizem 	Örge

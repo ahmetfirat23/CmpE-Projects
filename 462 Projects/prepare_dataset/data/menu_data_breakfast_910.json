@@ -1,0 +1,1215 @@
+[
+    {
+        "date": "2024-09-20",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "pisi"
+                ],
+                "main_dish": [
+                    "salatalik"
+                ],
+                "vegetarian": [],
+                "side_dishes": [
+                    "kasar peynir",
+                    "tereyagi",
+                    "labne"
+                ],
+                "dessert": [
+                    "recel",
+                    "sutlu gevrek"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-21",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "patates kizartmasi"
+                ],
+                "main_dish": [
+                    "yesil zeytin"
+                ],
+                "vegetarian": [],
+                "side_dishes": [
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "tahin helva",
+                    "yumurta",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyagi",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-22",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "corba"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek",
+                    "kasar peynir",
+                    "yesil zeytin",
+                    "siyah zeytin"
+                ],
+                "dessert": [
+                    "recel",
+                    "labne",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-23",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pogaca + acma"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek",
+                    "kasar peynir",
+                    "yesil zeytin",
+                    "siyah zeytin"
+                ],
+                "dessert": [
+                    "findik kremasi",
+                    "tereyagi",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-24",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tahin helva",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-25",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates"
+                ],
+                "dessert": [
+                    "salatalik",
+                    "kasar peynir",
+                    "sutlu gevrek"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-26",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "tahin helva"
+                ],
+                "dessert": [
+                    "labne",
+                    "beyaz peynir"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-27",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pisi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik"
+                ],
+                "dessert": [
+                    "sutlu gevrek",
+                    "kasar peynir"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-28",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tahin helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-29",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "corba"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek",
+                    "kasar peynir"
+                ],
+                "dessert": [
+                    "recel",
+                    "labne",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-30",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pogaca + acma"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek",
+                    "kasar peynir",
+                    "yesil zeytin",
+                    "siyah zeytin"
+                ],
+                "dessert": [
+                    "findik kremasi",
+                    "tereyagi",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-01",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "patates"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-02",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "recel",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-03",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "labne",
+                    "findik ezme",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-04",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pisi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "krem peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-05",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "su boregi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "bal",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-06",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "labne",
+                    "recel",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-07",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "simit / pogaca"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "bal",
+                    "findik ezme"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-08",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-09",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "recel",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-10",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "labne",
+                    "findik ezme",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-11",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pisi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "krem peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-12",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "su boregi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-13",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "labne",
+                    "tahin-pekmez",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "simit / pogaca"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "bal",
+                    "findik ezme"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-15",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-16",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "tahin-pekmez",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-17",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "labne",
+                    "findik ezme",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-18",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pisi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "krem peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-19",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "su boregi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-20",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "labne",
+                    "tahin-pekmez",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-21",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "simit / pogaca"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "bal",
+                    "findik ezme"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-22",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-23",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "recel",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-24",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "labne",
+                    "findik ezme",
+                    "helva"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-25",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "pisi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "krem peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-26",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "su boregi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "bal"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-27",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "labne",
+                    "helva",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-28",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "simit / pogaca"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "bal",
+                    "findik ezme"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-29",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [
+                    "corba"
+                ],
+                "main_dish": [
+                    "patates kizartmasi"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "tereyag",
+                    "recel"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-30",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "menemen"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "kasar peynir",
+                    "tereyag",
+                    "recel",
+                    "tahin-pekmez"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-31",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "kahvalti yemegi",
+                "soup": [],
+                "main_dish": [
+                    "acma/simit"
+                ],
+                "vegetarian": [
+                    "yumurta"
+                ],
+                "side_dishes": [
+                    "yesil zeytin",
+                    "siyah zeytin",
+                    "domates",
+                    "salatalik",
+                    "sutlu gevrek"
+                ],
+                "dessert": [
+                    "beyaz peynir",
+                    "labne",
+                    "findik ezme",
+                    "helva"
+                ]
+            }
+        ]
+    }
+]

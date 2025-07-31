@@ -1,0 +1,6 @@
+.reviewList {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 100px;
+}

@@ -1,0 +1,4 @@
+name	surname	year	average_rating
+Daniele 	Santarelli	2022	4.6
+Daniele 	Santarelli	2023	4.7
+Ferhat 	Akbaş	2024	4.9

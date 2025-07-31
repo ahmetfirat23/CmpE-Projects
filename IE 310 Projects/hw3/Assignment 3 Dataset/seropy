@@ -1,0 +1,112 @@
+class Solution:
+
+    def __init__(self, file_path):
+        self.n, self.matrix = self.get_input(file_path)
+        self.identity_matrix = self.create_identity()
+
+    def get_input(self, file_path):
+        with open(file_path, "r") as f:
+            n = f.readline()
+            matrix = []
+            for row in f.readlines():
+                matrix.append([float(i) for i in row.strip().split(" ")])
+            return int(n), matrix
+
+    def gaussian_elimination(self):
+        n = len(self.matrix)
+
+        for i in range(n):
+            flag = True
+            if self.matrix[i][i] == 0:
+                for j in range(i, n):
+                    if self.matrix[j][i] != 0:
+                        tmp = self.matrix[j]
+                        self.matrix[j] = self.matrix[i]
+                        self.matrix[i] = tmp
+                        flag = False
+
+                        tmp = self.identity_matrix[i]
+                        self.identity_matrix[i] = self.identity_matrix[j]
+                        self.identity_matrix[j] = tmp
+
+                        break
+                if flag:  # if all the columns are 0 continue with the other column
+                    continue
+
+            factor = self.matrix[i][i]  # we made sure that factor is not zero
+            for j in range(n + 1):  # devide the row with factor so that pivot will be 1
+                self.matrix[i][j] /= factor
+                if j != n:
+                    self.identity_matrix[i][j] /= factor
+
+            for j in range(n):
+                if i == j:
+                    continue
+                factor = self.matrix[j][i]
+                for k in range(n + 1):
+                    self.matrix[j][k] -= factor * self.matrix[i][k]  # subtract rows
+                    if -1e-10 <self.matrix[j][k] < 1e-10:
+                        self.matrix[j][k] = 0
+                    if k != n:
+                        self.identity_matrix[j][k] -= factor * self.identity_matrix[i][k]
+
+    def get_rank(self):
+        res = 0
+        zero_indices = []
+        for i in range(len(self.matrix)):
+            if self.matrix[i][i] == 0:
+                zero_indices.append(i)
+                continue
+            res += 1
+        return res, zero_indices
+    def print_inverted(self):
+        space = " " * (len("Inverted A:"))
+        print("Inverted A:", end=" ")
+        for i in range(self.n):
+            if i != 0:
+                print(space, end=" ")
+            for j in range(self.n):
+                print(self.identity_matrix[i][j], end=" ")
+            print()
+
+    def solve(self):
+        self.gaussian_elimination()
+        rank, zero_indices = self.get_rank()
+        res = [str(self.matrix[i][self.n]) for i in range(self.n)]
+        if rank != self.n:
+            for i in zero_indices:
+                if self.matrix[i][self.n] != 0:
+                    print("Inconsistent problem")
+                    return
+            print("Arbitrary variable indexes:", end=" ")
+            [print(f"x{i}", end=" ") for i in zero_indices]
+
+            print("\nArbitrary solution:", " ".join(res))
+            return
+
+        print("Unique solution:", " ".join(res))
+        self.print_inverted()
+        return
+
+    # This function creates identity matrix in order to be able to get inverse of matrix A after applying
+    # the same row operations with the matrix A
+    def create_identity(self):
+        identity = []
+        for i in range(self.n):
+            tmp = []
+            for j in range(self.n):
+                if i == j:
+                    tmp.append(1)
+                else:
+                    tmp.append(0)
+            identity.append(tmp)
+        return identity
+
+
+if __name__ == "__main__":
+    for i in range(1, 5):
+        print(f"Data{i}.txt")
+        # created Solution class to apply functions in a more organized way
+        solution = Solution(f"Data{i}.txt")
+        solution.solve()
+        print()

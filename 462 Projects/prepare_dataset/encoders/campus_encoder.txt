@@ -1,0 +1,6 @@
+0: ahisari
+1: guney
+2: hisar
+3: kandilli
+4: kilyos
+5: kuzey

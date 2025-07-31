@@ -1,0 +1,77 @@
+Cross-validation Results:
+k=3: 0.4341
+k=5: 0.4008
+k=7: 0.4059
+k=9: 0.3833
+k=11: 0.3852
+
+Optimal k value: 3
+
+Overall Model Performance:
+Training Accuracy: 0.8093
+Test Accuracy: 0.4461
+
+Campus-Specific Performance (Training Set):
+Campus 0 Anadolu Hisari:
+  Accuracy: 0.8478
+  Number of samples: 289
+Campus 1 Guney:
+  Accuracy: 0.8696
+  Number of samples: 299
+Campus 2 Hisar:
+  Accuracy: 0.6667
+  Number of samples: 132
+Campus 3 Kandilli:
+  Accuracy: 0.8082
+  Number of samples: 292
+Campus 4 Kliyos:
+  Accuracy: 0.7666
+  Number of samples: 287
+Campus 5 Kuzey:
+  Accuracy: 0.8169
+  Number of samples: 295
+
+Campus-Specific Performance (Test Set):
+Campus 0 Anadolu Hisari:
+  Accuracy: 0.4795
+  Number of samples: 73
+Campus 1 Guney:
+  Accuracy: 0.4868
+  Number of samples: 76
+Campus 2 Hisar:
+  Accuracy: 0.3846
+  Number of samples: 26
+Campus 3 Kandilli:
+  Accuracy: 0.3614
+  Number of samples: 83
+Campus 4 Kliyos:
+  Accuracy: 0.5000
+  Number of samples: 58
+Campus 5 Kuzey:
+  Accuracy: 0.4458
+  Number of samples: 83
+
+Training Time: 0.0000 seconds
+Prediction Time: 57.1516 seconds
+
+Class 0 : Low, Class 1: Medium, Class 2: High
+
+Confusion Matrix:
+[[20 22  6  0  0]
+ [34 43 20  1  5]
+ [ 4 25 88  8 18]
+ [ 0  3 19  9 11]
+ [ 0  7 24 14 18]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.34      0.42      0.38        48
+           1       0.43      0.42      0.42       103
+           2       0.56      0.62      0.59       143
+           3       0.28      0.21      0.24        42
+           4       0.35      0.29      0.31        63
+
+    accuracy                           0.45       399
+   macro avg       0.39      0.39      0.39       399
+weighted avg       0.44      0.45      0.44       399

@@ -1,0 +1,338 @@
+0: acili ezme, meyve, fanta
+1: amerikan salata, gazoz, meyve
+2: ayran, cevizli baklava, mevsim salata
+3: ayran, cevizli baklava, mor salata
+4: ayran, cevizli kadayif, meyve
+5: ayran, cheescake, meyve
+6: ayran, cilekli puding, mevsim salata
+7: ayran, coban salata, meyve
+8: ayran, humus, salata
+9: ayran, kazandibi, salata
+10: ayran, lokma tatlisi, tursu
+11: ayran, mevsim salata, kemalpasa, vegan tatli
+12: ayran, mevsim salata, kisir
+13: ayran, mevsim salata, meyve
+14: ayran, mevsim salata, peynir tatlisi
+15: ayran, meyve, gazoz
+16: ayran, meyve, hayrabolu tatlisi
+17: ayran, meyve, keskul
+18: ayran, meyve, mevsim salata
+19: ayran, meyve, misirli salata
+20: ayran, meyve, mor salata
+21: ayran, meyve, pembe sultan
+22: ayran, meyve, salata
+23: ayran, meyve, soda
+24: ayran, mor salata, meyve
+25: ayran, salata, meyve
+26: ayran, soda, mevsim salata
+27: ayran, tursu, mevsim salata
+28: ayran, tursu, meyve
+29: ayran, yesil salata, kazandibi
+30: baklava, limonata, salata
+31: biber borani, meyve, soda
+32: cacik, mevsim salata, revani, vegan tatli
+33: cacik, meyve, kazandibi+ vegan tatli
+34: cacik, meyve, limonata
+35: cacik, meyve, mevsim salata
+36: cacik, meyve, nevzine tatlisi
+37: cacik, meyve, salata
+38: cacik, meyve, soda
+39: cacik, meyve, tulumba tatlisi
+40: cacik, meyve, tulumba tatlisi, vegan tatli
+41: cacik, meyve, zerde tatlisi
+42: cacik, mor salata, baklava
+43: cacik, salata, meyve
+44: cacik, soda, salata
+45: cevizli baklava, salata, soda
+46: cevizli baklava, soda, yesil salata
+47: cevizli kadayif, mevsim salata, soda
+48: cevizli kadayif, yogurt, limonata
+49: cig kofte, ayran, cheesecake
+50: cig kofte, ayran, meyve
+51: cilekli puding, mevsim salata, soda
+52: cilekli puding, meyve, mevsim salata
+53: coban salata, meyve, ayran
+54: coban salata, meyve, gazoz
+55: coleslaw salata, meyve, soda
+56: coleslaw salata, portakalli gazoz, sekerpare
+57: dondurma, mercimek kofte, limonata
+58: fanta, amerikan salata, meyve
+59: fanta, kisir, meyve
+60: fanta, mercimek kofte, meyve
+61: fanta, mevsim salata, kadayifli muhallebi
+62: fanta, mevsim salata, kazandibi
+63: fanta, mevsim salata, tulumba tatlisi
+64: fanta, meyve, amerikan salata
+65: fanta, meyve, mercimek kofte
+66: fanta, meyve, mor salata
+67: fanta, meyve, salata
+68: fanta, meyve, tulumba tatlisi
+69: fanta, meyve, visne soslu muhallebi
+70: fanta, trilece, coban salata
+71: gazoz, havuc borani, salata
+72: gazoz, havuc tarator, meyve
+73: gazoz, haydari, meyve
+74: gazoz, mevsim salata, cilekli puding
+75: gazoz, mevsim salata, meyve
+76: gazoz, mevsim salata, trilece
+77: gazoz, meyve, mevsim salata
+78: gazoz, meyve, muzlu puding
+79: gazoz, profiterol, yesil salata
+80: gazoz, salata, meyve
+81: gazoz, supangle, salata
+82: gobek salata, limonata, meyve
+83: havuc borani, mevsim salata, soda
+84: haydari, mevsim salata, meyve
+85: haydari, meyve, limonata
+86: haydari, soda, meyve
+87: hayrabolu tatlisi, gazoz, meyve
+88: hayrabolu tatlisi, meyve, salata
+89: helva, roka salatasi, meyve suyu
+90: humus, kola, mor dunya
+91: humus, meyve, salata
+92: islak kek, meyve, kirmizi pancar salata
+93: ispanak tarator, gazoz, meyve
+94: kabak borani, fanta, salata
+95: kabak borani, meyve, gazoz
+96: kabak tarator, meyve, gazoz
+97: kabak tatlisi, mevsim salata, soda
+98: kadayifli muhallebi, mevsim salata, meyve
+99: kadayifli muhallebi, meyve, gazoz
+100: kazandibi, gazoz, mevsim salata
+101: kazandibi, gazoz, meyve
+102: kazandibi, mercimek kofte, kola
+103: kazandibi, mevsim salata, soda
+104: kazandibi, meyve, gazoz
+105: kazandibi, meyve, mevsim salata
+106: kazandibi, meyve, salata
+107: kazandibi, salata, meyve
+108: kazandibi, soda, mevsim salata
+109: keskul, limonata, meyve
+110: kirmizi pancar salata, revani, meyve
+111: kisir, kola, mevsim salata
+112: kisir, tulumba tatlisi, soda
+113: kola, havuc tarator, trilece
+114: kola, islak kek, meyve
+115: kola, mevsim salata, meyve
+116: kola, meyve, krem sokola
+117: kola, sutlac, salata
+118: komposto, mevsim salata, kisir
+119: komposto, mevsim salata, meyve
+120: komposto, meyve, misirli salata
+121: limonata, cig kofte, cevizli kadayif
+122: limonata, coleslaw salata, meyve
+123: limonata, havuc tarator, meyve
+124: limonata, hosmerim, meyve
+125: limonata, magnolia, mevsim salata
+126: limonata, mevsim salata, cig kofte
+127: limonata, mevsim salata, meyve
+128: limonata, mevsim salata, nevzine tatlisi
+129: limonata, meyve, cig kofte
+130: limonata, meyve, coban salata
+131: limonata, meyve, havuc borani
+132: limonata, meyve, mercimek kofte
+133: limonata, meyve, mevsim salata
+134: limonata, meyve, salata
+135: limonata, meyve, zerde tatlisi
+136: limonata, mozaik pasta, salata
+137: limonata, salata, gullac
+138: lokma tatlisi, ayran, salata
+139: lokma tatlisi, limonata, salata
+140: magnolia, coban salata, meyve
+141: magnolia, mevsim salata, ayran
+142: mercimek kofte, ayran, meyve
+143: mevsim salata, cevizli kadayif, soda
+144: mevsim salata, cig kofte, ayran
+145: mevsim salata, fanta, meyve
+146: mevsim salata, kola, meyve
+147: mevsim salata, komposto, meyve
+148: mevsim salata, limonata, meyve
+149: mevsim salata, meyve, ayran
+150: mevsim salata, meyve, gazoz
+151: mevsim salata, meyve, kola
+152: mevsim salata, meyve, limonata
+153: mevsim salata, meyve, soda
+154: mevsim salata, meyve, supangle
+155: mevsim salata, meyve, sutlac
+156: mevsim salata, portakalli gazoz, gullac
+157: mevsim salata, profiterol, meyve
+158: mevsim salata, soda, cevizli kadayif
+159: mevsim salata, soda, meyve
+160: mevsim salata, soda, sutlac
+161: mevsim salata, tursu, soda
+162: mevsim salata, yogurt, meyve
+163: meyve suyu, dondurma, salata
+164: meyve suyu, kisir, meyve
+165: meyve suyu, mercimek kofte, cevizli kadayif
+166: meyve suyu, mevsim salata, hosmerim
+167: meyve suyu, salata, gazoz
+168: meyve suyu, salata, tulumba tatlisi
+169: meyve, acili ezme, visneli soda
+170: meyve, ayran, mevsim salata
+171: meyve, ayran, salata
+172: meyve, ayran, soda
+173: meyve, coban salata, ayran
+174: meyve, coleslaw salata, soda
+175: meyve, fanta, mevsim salata
+176: meyve, gazoz, amerikan salata
+177: meyve, gazoz, salata
+178: meyve, kadayifli muhallebi, mevsim salata
+179: meyve, limonata, damla sakizli muhallebi
+180: meyve, limonata, mevsim salata
+181: meyve, mevsim salata, ayran
+182: meyve, mevsim salata, cevizli kadayif
+183: meyve, mevsim salata, gazoz
+184: meyve, mevsim salata, limonata
+185: meyve, mevsim salata, meyve suyu
+186: meyve, mevsim salata, mozaik pasta
+187: meyve, mevsim salata, pembe sultan
+188: meyve, mevsim salata, soda
+189: meyve, mevsim salata, supangle
+190: meyve, misirli salata, soda
+191: meyve, muzlu puding, limonata
+192: meyve, profiterol, ayran
+193: meyve, salata, gazoz
+194: meyve, salata, mutebbel
+195: meyve, salata, soda
+196: meyve, soda, coleslaw salata
+197: meyve, soda, mevsim salata
+198: meyve, soda, piyaz
+199: meyve, tabule, kazandibi
+200: meyveli soda, coban salata, tavuk gogsu
+201: meyveli soda, salata, meyve
+202: misirli salata, soda, sutlac
+203: mor dunya, mercimek kofte, meyveli soda
+204: mor lahana salatasi, meyve, kazandibi
+205: mor salata, ayran, cevizli kadayif
+206: mor salata, ayran, meyve
+207: mor salata, fanta, meyve
+208: mor salata, meyve, cevizli kadayif
+209: mor salata, meyve, fanta
+210: mor salata, meyve, portakalli gazoz
+211: mor salata, meyve, soda
+212: mozaik pasta, meyve, limonata
+213: mozaik pasta, meyve, mevsim salata
+214: mozaik pasta, meyve, patates salata
+215: muzlu puding, mevsim salata, soda
+216: muzlu puding, meyve, coban salata
+217: muzlu puding, yesil salata, soda
+218: pembe sultan, gazoz, salata
+219: pembe sultan, meyve, ayran
+220: pembe sultan, soda, meyve
+221: piyaz, fanta, meyve
+222: piyaz, soda, meyve
+223: portakalli gazoz, mevsim salata, meyve
+224: portakalli gazoz, meyve, haydari
+225: profiterol, mevsim salata, gazoz
+226: profiterol, mor salata, gazoz
+227: puding, salata, meyve
+228: salata, ayran, lokma tatlisi
+229: salata, ayran, meyve
+230: salata, ayran, soda
+231: salata, limonata, meyve
+232: salata, meyve, ayran
+233: salata, meyve, cilekli puding
+234: salata, meyve, fanta
+235: salata, meyve, gazoz
+236: salata, meyve, iki renkli muhallebi
+237: salata, meyve, kemalpasa
+238: salata, meyve, muzlu puding
+239: salata, meyve, portakalli gazoz
+240: salata, meyve, yogurt
+241: salata, revani, meyve
+242: salata, yogurt, meyve
+243: sekerpare, ayran, mevsim salata
+244: sekerpare, salata, soda
+245: semizotu borani, meyve, soda
+246: semizotu salata, meyve, meyveli soda
+247: semizotu salata, yogurt, meyve
+248: soda, baklava, meyve
+249: soda, kabak borani, meyve
+250: soda, mevsim salata, ayran
+251: soda, mevsim salata, meyve
+252: soda, meyve, coleslaw salata
+253: soda, meyve, havuc tarator
+254: soda, meyve, iki renkli muhallebi
+255: soda, meyve, komposto
+256: soda, meyve, mevsim salata
+257: soda, roka+turp salata, meyve
+258: soda, salata, meyve
+259: soda, salata, revani
+260: soda, sekerpare, meyve
+261: soda, soslu muhallebi, salata
+262: soda, yesil salata, meyve
+263: supangle, ayran, mevsim salata
+264: supangle, meyve, limonata
+265: supangle, meyve, mercimek kofte
+266: supangle, meyve, mevsim salata
+267: supangle, portakalli gazoz, mevsim salata
+268: supangle, salata, limonata
+269: sutlac, mevsim salata, komposto
+270: sutlac, meyve, mevsim salata
+271: sutlac, meyve, salata
+272: sutlac, soda, yogurt
+273: sutlu irmik tatli, meyve, soda
+274: tabule, ayran, soda
+275: tavuk gogsu, mor salata, soda
+276: tiramisu, ayran, mevsim salata
+277: trilece, soda, mevsim salata
+278: tulumba tatlisi, mevsim salata, meyve
+279: tulumba tatlisi, meyve, limonata
+280: tulumba tatlisi, meyve, salata
+281: tulumba tatlisi, meyve, soda
+282: tulumba tatlisi, mor salata, portakalli gazoz
+283: tulumba tatlisi, soda, meyve
+284: turp salata, meyve, ayran
+285: tursu, ayran, krem sokola
+286: tursu, ayran, mevsim salata
+287: tursu, ayran, meyve
+288: tursu, cacik, meyve
+289: tursu, cevizli baklava, yogurt
+290: tursu, fanta, gullac
+291: tursu, kazandibi, meyve
+292: tursu, limonata, cevizli kadayif
+293: tursu, mevsim salata, ayran
+294: tursu, mevsim salata, gazoz
+295: tursu, meyve, ayran
+296: tursu, meyve, limonata
+297: tursu, meyve, mozaik pasta
+298: tursu, meyve, soda
+299: tursu, meyve, tulumba tatlisi
+300: tursu, salata, meyve
+301: tursu, sekerpare, yogurt
+302: tursu, sutlac, soda
+303: tursu, yogurt, meyve
+304: tursu, yogurt, sekerpare
+305: tursu, zerde, yogurt
+306: visne soslu muhallebi, mevsim salata, meyve
+307: yogurt, dondurma, salata
+308: yogurt, gazoz, salata
+309: yogurt, komposto, salata
+310: yogurt, limonata, mevsim salata
+311: yogurt, mevsim salata, brownie
+312: yogurt, mevsim salata, fanta
+313: yogurt, mevsim salata, gazoz
+314: yogurt, mevsim salata, hayrabolu tatlisi, vegan tatli
+315: yogurt, mevsim salata, limonata
+316: yogurt, mevsim salata, meyve
+317: yogurt, mevsim salata, soda
+318: yogurt, meyve, cheesecake
+319: yogurt, meyve, gazoz
+320: yogurt, meyve, hayrabolu tatlisi
+321: yogurt, meyve, kibris tatli, vegan tatli
+322: yogurt, meyve, komposto
+323: yogurt, meyve, soda
+324: yogurt, meyve, supangle, vegan tatli
+325: yogurt, meyve, sutlac
+326: yogurt, mor salata, cevizli kadayif
+327: yogurt, salata, gazoz
+328: yogurt, salata, limonata
+329: yogurt, salata, meyve
+330: yogurt, salata, portakalli gazoz
+331: yogurt, salata, tursu
+332: yogurt, tursu, brownie
+333: yogurt, tursu, meyve
+334: yogurt, tursu, salata
+335: yogut, soda, mevsim salata
+336: zerde, ayran, mercimek kofte
+337: zerde, mevsim salata, meyve

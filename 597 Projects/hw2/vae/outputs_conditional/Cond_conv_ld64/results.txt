@@ -1,0 +1,22 @@
+Classifier predictions for generated 'rabbit':
+  Sample 1: Predicted as 'rabbit' (index 0), Confidence: 0.999
+  Sample 2: Predicted as 'rabbit' (index 0), Confidence: 0.996
+  Sample 3: Predicted as 'rabbit' (index 0), Confidence: 1.000
+  Sample 4: Predicted as 'rabbit' (index 0), Confidence: 1.000
+  Sample 5: Predicted as 'yoga' (index 1), Confidence: 0.623
+Saved conditional image grid to outputs_conditional/Cond_conv_ld64/generated_samples_yoga.png
+
+Classifier predictions for generated 'yoga':
+  Sample 1: Predicted as 'Unknown' (index 2), Confidence: 0.756
+  Sample 2: Predicted as 'yoga' (index 1), Confidence: 0.999
+  Sample 3: Predicted as 'yoga' (index 1), Confidence: 0.604
+  Sample 4: Predicted as 'yoga' (index 1), Confidence: 0.995
+  Sample 5: Predicted as 'yoga' (index 1), Confidence: 0.966
+Saved conditional image grid to outputs_conditional/Cond_conv_ld64/generated_samples_snowman.png
+
+Classifier predictions for generated 'snowman':
+  Sample 1: Predicted as 'snowman' (index 3), Confidence: 0.985
+  Sample 2: Predicted as 'snowman' (index 3), Confidence: 0.786
+  Sample 3: Predicted as 'snowman' (index 3), Confidence: 0.997
+  Sample 4: Predicted as 'snowman' (index 3), Confidence: 0.993
+  Sample 5: Predicted as 'snowman' (index 3), Confidence: 1.000

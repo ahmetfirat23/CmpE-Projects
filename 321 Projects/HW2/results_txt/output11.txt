@@ -1,0 +1,4 @@
+session_ID	name	surname	stadium_name	stadium_country	team_name
+0	Daniele 	Santarelli	Burhan Felek Voleybol Salonu	TR	Women A
+2	Daniele 	Santarelli	GD Voleybol Arena	TR	Women A
+6	Daniele 	Santarelli	GD Voleybol Arena	TR	Women A

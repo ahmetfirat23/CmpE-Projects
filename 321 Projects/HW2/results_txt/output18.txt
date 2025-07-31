@@ -1,0 +1,2 @@
+name	surname	directed_stadium_count
+Daniele 	Santarelli	3

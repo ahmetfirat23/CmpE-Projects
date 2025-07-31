@@ -1,0 +1,8 @@
+create type humannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 6 1 name str origin str title str age int weapon str skill str
+create record human RamsayBolton Dreadfort Lord 21 Dagger Strategy
+create type dragon 5 1 name str age int color str owner str skill str
+create record dragon Viserion 5 White NightKing IceBreathing
+create record human Bronn Stokeworth Knight 32 Crossbow Swordfighting
+delete record human NedStark
+search record human RamsayBolton
+search record dragon Viserion

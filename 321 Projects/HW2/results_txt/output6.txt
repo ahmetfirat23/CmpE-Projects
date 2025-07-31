@@ -1,0 +1,8 @@
+team_name	coach_name	coach_surname	player_count
+Women A	Daniele 	Santarelli	17
+U19	Ferhat 	Akbaş	11
+Women B	Ferhat 	Akbaş	10
+Women B	Giovanni 	Guidetti	7
+Women C	Mike	Hebert	0
+U19	Oliviere	Deriviere	0
+U19	Amicia	DeRune	0

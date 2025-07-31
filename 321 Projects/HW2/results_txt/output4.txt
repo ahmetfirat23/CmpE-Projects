@@ -1,0 +1,3 @@
+assigned_jury_username	stadium_name
+o_ozcelik	GD Voleybol Arena
+m_sevinc	Copper Box Arena

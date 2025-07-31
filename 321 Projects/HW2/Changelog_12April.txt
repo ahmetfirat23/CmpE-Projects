@@ -1,0 +1,33 @@
+ Changelog
+
+*Project Description:
+
+1-) Query11: "List all match sessions that were not directed by Daniele Santarelli and were not played in UK." is changed into
+
+"List all match sessions that WERE directed by Daniele Santarelli and were not played in UK."
+
+Output file is not effected.
+
+
+2-) Query18: "Find the names of coaches who have directed at least one match in each stadium. The required column names are respectively: name, surname, played count." is changed into
+
+"Find the names of coaches who have directed at least one match in each stadium. "directed stadium count" means the amount of unique stadiums that the coach has directed in. The required column names are respectively: name, surname, directed stadium count."
+
+Output file is also effected.
+
+
+3-) Query16: "Find the average rating of match sessions for each coach, and list the coaches in descending order of their average ratings. The required column names are respectively: name, surname, average rating. Sort by name in descending order." is changed into
+
+"Find the average rating of match sessions for each coach, and list the coaches with their average ratings. The required column names are respectively: name, surname, average rating. Sort by name in descending order."
+
+Output file is not effected.
+
+
+-----
+*Output files:
+
+4-) Output17 is updated completely.
+
+5-) Output18 is updated. Only one attribute name changed(played_count -> directed_stadium_count)
+
+6-) Output19 is updated completely.

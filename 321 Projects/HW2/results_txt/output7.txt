@@ -1,0 +1,7 @@
+position_ID	position_name
+0	Libero
+1	Setter
+2	Opposite hitter
+3	Outside hitter
+4	Middle blocker
+5	Middle Hitter

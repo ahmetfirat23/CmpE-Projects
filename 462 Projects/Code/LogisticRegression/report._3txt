@@ -1,0 +1,49 @@
+Logistic Regression Analysis Report
+Generated on: 2024-12-21 18:14:24
+
+Dataset Overview:
+----------------
+Total samples: 1993
+Features: campus, weather, meal, soup, main_dish, vegetarian, side_dishes, dessert, day_of_week, week_of_month, month
+Classes: 0 (Low density), 1 (Medium density), 2 (High density)
+
+Model Configuration:
+------------------
+- Algorithm: Multinomial Logistic Regression
+- Random State: 1234
+- Max Iterations: 1000
+- Solver: lbfgs (default)
+
+Data Preprocessing:
+-----------------
+- Features standardized using StandardScaler
+- Train-test split: 80% training, 20% testing
+
+Model Performance:
+----------------
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.44      0.52      0.47       151
+           1       0.48      0.45      0.47       143
+           2       0.43      0.36      0.39       105
+
+    accuracy                           0.45       399
+   macro avg       0.45      0.44      0.44       399
+weighted avg       0.45      0.45      0.45       399
+
+
+Feature Importance:
+-----------------
+Feature importance (averaged absolute coefficients):
+weather: 0.2792
+meal: 0.2123
+campus: 0.1705
+day_of_week: 0.1677
+dessert: 0.0910
+month: 0.0886
+vegetarian: 0.0489
+main_dish: 0.0487
+soup: 0.0219
+side_dishes: 0.0211
+week_of_month: 0.0098

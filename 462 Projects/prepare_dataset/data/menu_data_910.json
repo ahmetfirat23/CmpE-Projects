@@ -1,0 +1,2417 @@
+[
+    {
+        "date": "2024-09-02",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "tavuk suyu corba"
+                ],
+                "main_dish": [
+                    "rosto kofte"
+                ],
+                "vegetarian": [
+                    "patates oturtma"
+                ],
+                "side_dishes": [
+                    "misirli pirinc pilavi",
+                    "eriste"
+                ],
+                "dessert": [
+                    "meyve",
+                    "coban salata",
+                    "ayran"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-03",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mahluta corba"
+                ],
+                "main_dish": [
+                    "sehzade kebabi"
+                ],
+                "vegetarian": [
+                    "imam bayildi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "cacik",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-04",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "naneli yogurt corba"
+                ],
+                "main_dish": [
+                    "tavuk tava"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "patatesli tepsi boregi"
+                ],
+                "dessert": [
+                    "tiramisu",
+                    "ayran",
+                    "mevsim salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-05",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "pilic topkapi"
+                ],
+                "vegetarian": [
+                    "harput kofte"
+                ],
+                "side_dishes": [
+                    "zy. orbit fasulye",
+                    "saksuka"
+                ],
+                "dessert": [
+                    "limonata",
+                    "meyve",
+                    "zerde tatlisi"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-06",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mercimek corba"
+                ],
+                "main_dish": [
+                    "iskender kebap"
+                ],
+                "vegetarian": [
+                    "bezelyeli vegan misket kofte"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "kola"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-09",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "koy corbasi"
+                ],
+                "main_dish": [
+                    "mantar soslu tavuk"
+                ],
+                "vegetarian": [
+                    "mantar graten"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "domatesli bulgur pilavi"
+                ],
+                "dessert": [
+                    "coban salata",
+                    "meyve",
+                    "gazoz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-10",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "bamya corba"
+                ],
+                "main_dish": [
+                    "etli nohut"
+                ],
+                "vegetarian": [
+                    "etsiz nohut"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "yogurt",
+                    "tursu",
+                    "brownie"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-11",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ayranasi corba"
+                ],
+                "main_dish": [
+                    "meksika soslu tavuk"
+                ],
+                "vegetarian": [
+                    "zy.mantar"
+                ],
+                "side_dishes": [
+                    "nohutlu pirinc pilavi",
+                    "tepsi boregi"
+                ],
+                "dessert": [
+                    "keskul",
+                    "limonata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-12",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "cesmi nigar corba"
+                ],
+                "main_dish": [
+                    "tavuk sandal"
+                ],
+                "vegetarian": [
+                    "imam bayildi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "semizotu borani",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-13",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "kabak begendi"
+                ],
+                "vegetarian": [
+                    "nohutlu kabak yemegi"
+                ],
+                "side_dishes": [
+                    "sehriyeli pirinc pilavi",
+                    "eriste"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-16",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "tavuk doner"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "limonata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-17",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "brokoli corba"
+                ],
+                "main_dish": [
+                    "firin kofte"
+                ],
+                "vegetarian": [
+                    "vegan kofte"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "garniturlu pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "cheescake",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-18",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mercimek corba"
+                ],
+                "main_dish": [
+                    "kremali tavuk sote"
+                ],
+                "vegetarian": [
+                    "bezelyeli vegan misket kofte"
+                ],
+                "side_dishes": [
+                    "garniturlu pirinc pilavi",
+                    "soslu spagetti"
+                ],
+                "dessert": [
+                    "magnolia",
+                    "mevsim salata",
+                    "ayran"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-19",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "yayla corba"
+                ],
+                "main_dish": [
+                    "etli taze fasulye"
+                ],
+                "vegetarian": [
+                    "taze fasulye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "profiterol",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "izmir kofte"
+                ],
+                "vegetarian": [
+                    "bezelyeli vegan misket kofte"
+                ],
+                "side_dishes": [
+                    "spagetti makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-20",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "mantar soslu tavuk"
+                ],
+                "vegetarian": [
+                    "mantar sote"
+                ],
+                "side_dishes": [
+                    "nohutlu pirinc pilavi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "limonata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "kiymali patates oturtma"
+                ],
+                "vegetarian": [
+                    "patates graten"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "gul boregi"
+                ],
+                "dessert": [
+                    "havuc borani",
+                    "meyve",
+                    "gazoz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-21",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "pizza"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "sogan halkasi",
+                    "mucver"
+                ],
+                "dessert": [
+                    "kola",
+                    "meyve",
+                    "amerikan salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mantar corba"
+                ],
+                "main_dish": [
+                    "tavuk kok kanat"
+                ],
+                "vegetarian": [
+                    "semizotu yemegi"
+                ],
+                "side_dishes": [
+                    "bolonez soslu spagetti",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-22",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "etli turlu"
+                ],
+                "vegetarian": [
+                    "etsiz turlu"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "cacik",
+                    "mevsim salata",
+                    "zerde tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "suzme mercimek corba"
+                ],
+                "main_dish": [
+                    "manisa kirkagac kofte"
+                ],
+                "vegetarian": [
+                    "zy.biber dolma"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "gul boregi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-23",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ayranasi corba"
+                ],
+                "main_dish": [
+                    "izmir kofte"
+                ],
+                "vegetarian": [
+                    "yesil mercimek yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "ic pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "sehriye corba"
+                ],
+                "main_dish": [
+                    "yayla soslu tavuk"
+                ],
+                "vegetarian": [
+                    "etsiz barbunya"
+                ],
+                "side_dishes": [
+                    "firin makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mercimek kofte",
+                    "meyve",
+                    "gazoz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-24",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "tavuk suyu corba"
+                ],
+                "main_dish": [
+                    "etli kuru fasulye"
+                ],
+                "vegetarian": [
+                    "etsiz kuru fasulye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "yogurt",
+                    "mevsim salata",
+                    "soda"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "kiymali ispanak yemegi"
+                ],
+                "vegetarian": [
+                    "yesil mercimekli ispanak yemegi"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "su boregi"
+                ],
+                "dessert": [
+                    "trilece",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-25",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "suzme mercimek corba"
+                ],
+                "main_dish": [
+                    "tavuk izgara"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "patatesli tepsi boregi",
+                    "sehriyeli pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "cig kofte",
+                    "ayran"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "tarhana corba"
+                ],
+                "main_dish": [
+                    "etli bezelye"
+                ],
+                "vegetarian": [
+                    "etsiz bezelye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "eriste"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-26",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "tas kebabi"
+                ],
+                "vegetarian": [
+                    "dovmec"
+                ],
+                "side_dishes": [
+                    "yesil mercimekli bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "ayran"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "ciftlik kebabi"
+                ],
+                "vegetarian": [
+                    "sebze sote"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "limonata",
+                    "meyve",
+                    "haydari"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-27",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mantar corba"
+                ],
+                "main_dish": [
+                    "et doner"
+                ],
+                "vegetarian": [
+                    "mucver"
+                ],
+                "side_dishes": [
+                    "melek pilavi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "limonata",
+                    "mevsim salata",
+                    "nevzine tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "yogurtlu nane corba"
+                ],
+                "main_dish": [
+                    "firin tavuk baget"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "su boregi"
+                ],
+                "dessert": [
+                    "coban salata",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-28",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "pilic kofte"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "domates soslu spagetti",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "fanta",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "tutmac corba"
+                ],
+                "main_dish": [
+                    "kiymali ispanak yemegi"
+                ],
+                "vegetarian": [
+                    "ispanak yemegi"
+                ],
+                "side_dishes": [
+                    "tepsi boregi",
+                    "zerdecalli makarna"
+                ],
+                "dessert": [
+                    "sutlac",
+                    "meyve",
+                    "mevsim salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-29",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "krutonlu mercimek corba"
+                ],
+                "main_dish": [
+                    "etli mantar sote"
+                ],
+                "vegetarian": [
+                    "mantar sote"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "kuskus"
+                ],
+                "dessert": [
+                    "piyaz",
+                    "havuc borani",
+                    "limonata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "sef'in corbasi"
+                ],
+                "main_dish": [
+                    "tavuk sinitzel"
+                ],
+                "vegetarian": [
+                    "harput kofte"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "gazoz",
+                    "coban salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-09-30",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "elvankiz corba"
+                ],
+                "main_dish": [
+                    "meksika soslu tavuk"
+                ],
+                "vegetarian": [
+                    "etsiz taze fasulye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "penne makarna"
+                ],
+                "dessert": [
+                    "meyve",
+                    "ayran",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "etli nohut"
+                ],
+                "vegetarian": [
+                    "etsiz nohut"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "tursu",
+                    "meyve",
+                    "brownie"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-01",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "hunkar begendi"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "cacik",
+                    "meyve",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "tarhana corba"
+                ],
+                "main_dish": [
+                    "etli taze fasulye"
+                ],
+                "vegetarian": [
+                    "taze fasulye"
+                ],
+                "side_dishes": [
+                    "eriste",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "keskul"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-02",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mercimek corba"
+                ],
+                "main_dish": [
+                    "pilic special but"
+                ],
+                "vegetarian": [
+                    "vegan kofte"
+                ],
+                "side_dishes": [
+                    "penne makarna",
+                    "garniturlu pirinc pilavi"
+                ],
+                "dessert": [
+                    "kazandibi",
+                    "mercimek kofte",
+                    "kola"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "krotonlu domates corba"
+                ],
+                "main_dish": [
+                    "etli manti"
+                ],
+                "vegetarian": [
+                    "etsiz manti"
+                ],
+                "side_dishes": [
+                    "zy.orbit fasulye",
+                    "karisik kizartma"
+                ],
+                "dessert": [
+                    "gazoz",
+                    "meyve",
+                    "profiterol"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-03",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "tavuk suyu corba"
+                ],
+                "main_dish": [
+                    "adana kofte"
+                ],
+                "vegetarian": [
+                    "vegan (bezelye) kofte"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "arpa sehriyeli pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "meyve",
+                    "misirli salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "cesmi nigar corba"
+                ],
+                "main_dish": [
+                    "ciftlik kebabi"
+                ],
+                "vegetarian": [
+                    "nohutlu kabak yemegi"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "domatesli bulgur pilavi"
+                ],
+                "dessert": [
+                    "yogurt",
+                    "mevsim salata",
+                    "limona"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-04",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "suzme mercimek corba"
+                ],
+                "main_dish": [
+                    "et doner"
+                ],
+                "vegetarian": [
+                    "bamya yemegi"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "mevsim salata",
+                    "gazoz"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "kiymali yesil mercimek"
+                ],
+                "vegetarian": [
+                    "yesil mercimek yemegi"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "su boregi"
+                ],
+                "dessert": [
+                    "havuc tarator",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-05",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "cordon bleu + pure"
+                ],
+                "vegetarian": [
+                    "mantar sote"
+                ],
+                "side_dishes": [
+                    "melek pilavi",
+                    "sebzeli makarna"
+                ],
+                "dessert": [
+                    "portakalli gazoz",
+                    "meyve",
+                    "magnolia"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "toyga corba"
+                ],
+                "main_dish": [
+                    "karniyarik"
+                ],
+                "vegetarian": [
+                    "imam bayildi"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "mevsim salata",
+                    "visne komposto"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-06",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "etli karisik dolma"
+                ],
+                "vegetarian": [
+                    "zy.dolma"
+                ],
+                "side_dishes": [
+                    "su boregi",
+                    "zy.barbunya"
+                ],
+                "dessert": [
+                    "meyve",
+                    "mercimek kofte",
+                    "meyveli soda"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "arpa sehriyeli corba"
+                ],
+                "main_dish": [
+                    "rosto kofte"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "kola",
+                    "meyve",
+                    "mor dunya"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-07",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mantar corba"
+                ],
+                "main_dish": [
+                    "etli guvec"
+                ],
+                "vegetarian": [
+                    "sebze buketi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "cacik",
+                    "meyve",
+                    "nevzine tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "brokoli corba"
+                ],
+                "main_dish": [
+                    "firin tavuk"
+                ],
+                "vegetarian": [
+                    "mucver"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "pembe sultan",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-08",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "sehriye corba"
+                ],
+                "main_dish": [
+                    "kibrit kebabi"
+                ],
+                "vegetarian": [
+                    "dovmec"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "arpa sehriyeli pirinc pilavi"
+                ],
+                "dessert": [
+                    "soda",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "sebze corba"
+                ],
+                "main_dish": [
+                    "etli nohut"
+                ],
+                "vegetarian": [
+                    "nohut yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "tursu",
+                    "ayran"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-09",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "kremali tavuk sote"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "penne makarna",
+                    "garniturlu pirinc pilavi"
+                ],
+                "dessert": [
+                    "limonata",
+                    "magnolia",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "tarhana corba"
+                ],
+                "main_dish": [
+                    "besamel soslu karnabahar"
+                ],
+                "vegetarian": [
+                    "karnabahar yemegi"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "eriste"
+                ],
+                "dessert": [
+                    "kola",
+                    "tulumba tatlisi",
+                    "mevsim salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-10",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "koylu corba"
+                ],
+                "main_dish": [
+                    "firinda patatesli kofte yemegi"
+                ],
+                "vegetarian": [
+                    "patates graten"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "su boregi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "peynir tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mahluta corba"
+                ],
+                "main_dish": [
+                    "pizza"
+                ],
+                "vegetarian": [
+                    "karisik kizartma"
+                ],
+                "side_dishes": [
+                    "domates soslu makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "kola",
+                    "mevsim salata",
+                    "supangle"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-11",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "macar gulas"
+                ],
+                "vegetarian": [
+                    "zy.kereviz"
+                ],
+                "side_dishes": [
+                    "eriste",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "soda",
+                    "sutlac"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mahluta corba"
+                ],
+                "main_dish": [
+                    "pilic emense"
+                ],
+                "vegetarian": [
+                    "barbunya yemegi"
+                ],
+                "side_dishes": [
+                    "firin makarna",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "limonata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-12",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "kabak corba"
+                ],
+                "main_dish": [
+                    "rosto kofte"
+                ],
+                "vegetarian": [
+                    "sebze graten"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "komposto"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "suzme mercimek corba"
+                ],
+                "main_dish": [
+                    "etli kuru fasulye"
+                ],
+                "vegetarian": [
+                    "etsiz kuru fasulye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "tursu",
+                    "mevsim salata",
+                    "kibris tatli"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-13",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "kiymali ispanak yemegi"
+                ],
+                "vegetarian": [
+                    "ispanak yemegi"
+                ],
+                "side_dishes": [
+                    "gul boregi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "soda",
+                    "meyve",
+                    "magnolia"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "kis corbasi"
+                ],
+                "main_dish": [
+                    "pilic kofte"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "limonata",
+                    "meyve",
+                    "kisir"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "mantar soslu tavuk"
+                ],
+                "vegetarian": [
+                    "mantar sote"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "mor dunya",
+                    "mercimek kofte",
+                    "meyveli soda"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "vitamin corba"
+                ],
+                "main_dish": [
+                    "ciftlik kebabi"
+                ],
+                "vegetarian": [
+                    "taze fasulye yemegi"
+                ],
+                "side_dishes": [
+                    "domatesli bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "kabak tarator",
+                    "meyve",
+                    "gazoz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-15",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "kremali mantar corba"
+                ],
+                "main_dish": [
+                    "etli bezelye"
+                ],
+                "vegetarian": [
+                    "etsiz bezelye"
+                ],
+                "side_dishes": [
+                    "kuskus",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "meyve",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "koylu corba"
+                ],
+                "main_dish": [
+                    "izmir kofte"
+                ],
+                "vegetarian": [
+                    "vegan kofte"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "limonata",
+                    "meyve",
+                    "kazandibi"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-16",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "krutonlu domates corba"
+                ],
+                "main_dish": [
+                    "kekikli pilic kavurma"
+                ],
+                "vegetarian": [
+                    "vegan hamburger"
+                ],
+                "side_dishes": [
+                    "nohutlu pirinc pilavi",
+                    "penne makarna"
+                ],
+                "dessert": [
+                    "cig kofte",
+                    "ayran",
+                    "cheesecake"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "etli nohut"
+                ],
+                "vegetarian": [
+                    "nohut yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "tursu",
+                    "yogurt",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-17",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "tarhana corba"
+                ],
+                "main_dish": [
+                    "tas kebabi"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "melek pilavi",
+                    "eriste"
+                ],
+                "dessert": [
+                    "portakalli gazoz",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "brokoli corba"
+                ],
+                "main_dish": [
+                    "kiymali patates oturtma"
+                ],
+                "vegetarian": [
+                    "patates graten"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "mercimek kofte",
+                    "meyve",
+                    "gazoz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-18",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "tavuk doner"
+                ],
+                "vegetarian": [
+                    "dovmec"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "meyve",
+                    "hayrabolu tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "etli guvec"
+                ],
+                "vegetarian": [
+                    "nohutlu kabak yemegi"
+                ],
+                "side_dishes": [
+                    "tepsi boregi",
+                    "soslu spagetti"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "havuc tarator",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-19",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "patlican oturtma"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "eriste"
+                ],
+                "dessert": [
+                    "haydari",
+                    "meyve",
+                    "fanta"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "tutmac corba"
+                ],
+                "main_dish": [
+                    "icli kofte"
+                ],
+                "vegetarian": [
+                    "vegan kofte"
+                ],
+                "side_dishes": [
+                    "su boregi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "gazoz",
+                    "meyve",
+                    "mevsim salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-20",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mantar corba"
+                ],
+                "main_dish": [
+                    "kiymali yesil mercimek"
+                ],
+                "vegetarian": [
+                    "yesil mercimek yemegi"
+                ],
+                "side_dishes": [
+                    "kalem borek",
+                    "eriste"
+                ],
+                "dessert": [
+                    "soda",
+                    "mevsim salata",
+                    "keskul"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "tavuk baget haslama"
+                ],
+                "vegetarian": [
+                    "sebze sote"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "meyve",
+                    "mevsim salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-21",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mercimek corba"
+                ],
+                "main_dish": [
+                    "orman kebabi"
+                ],
+                "vegetarian": [
+                    "bezelye yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "yogurt",
+                    "meyve",
+                    "cheesecake"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "sebze corba"
+                ],
+                "main_dish": [
+                    "tavuklu mantar sote"
+                ],
+                "vegetarian": [
+                    "mantar sote"
+                ],
+                "side_dishes": [
+                    "penne makarna",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "mor dunya",
+                    "meyveli soda",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-22",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mengen corba"
+                ],
+                "main_dish": [
+                    "rosto kofte"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "melek pilavi",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "safak corba"
+                ],
+                "main_dish": [
+                    "kiymali ispanak yemegi"
+                ],
+                "vegetarian": [
+                    "ispanak yemegi"
+                ],
+                "side_dishes": [
+                    "su boregi",
+                    "eriste"
+                ],
+                "dessert": [
+                    "kadayif tatlisi",
+                    "meyve",
+                    "soda"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-23",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "suzme mercimek corba"
+                ],
+                "main_dish": [
+                    "izgara tavuk"
+                ],
+                "vegetarian": [
+                    "zy. patlican"
+                ],
+                "side_dishes": [
+                    "garniturlu pirinc pilavi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "kola",
+                    "havuc tarator",
+                    "trilece"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "sehriye corba"
+                ],
+                "main_dish": [
+                    "sulu kofte"
+                ],
+                "vegetarian": [
+                    "bamya yemegi"
+                ],
+                "side_dishes": [
+                    "penne makarna",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "limonata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-24",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "tavuk suyu corba"
+                ],
+                "main_dish": [
+                    "etli taze fasulye"
+                ],
+                "vegetarian": [
+                    "taze fasulye yemegi"
+                ],
+                "side_dishes": [
+                    "domatesli bulgur pilavi",
+                    "zerdecalli pirinc pilavi"
+                ],
+                "dessert": [
+                    "yogurt",
+                    "meyve",
+                    "hayrabolu tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "yayla corba"
+                ],
+                "main_dish": [
+                    "kori soslu tavuk sote"
+                ],
+                "vegetarian": [
+                    "harput kofte"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "kola",
+                    "meyve",
+                    "mor salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-25",
+        "day_of_week": "cuma",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "mahluta corba"
+                ],
+                "main_dish": [
+                    "et doner"
+                ],
+                "vegetarian": [
+                    "mucver"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "kisir",
+                    "kola",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "cordon bleu + pure"
+                ],
+                "vegetarian": [
+                    "sebze buketi"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "gul boregi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "gazoz",
+                    "amerikan salata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-26",
+        "day_of_week": "cumartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "toyga corba"
+                ],
+                "main_dish": [
+                    "pizza"
+                ],
+                "vegetarian": [
+                    "bruksel lahana"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "meyve",
+                    "kabak borani",
+                    "nevzine tatlisi"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mercimek corba"
+                ],
+                "main_dish": [
+                    "etli barbunya"
+                ],
+                "vegetarian": [
+                    "barbunya yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "meyve",
+                    "tursu"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-27",
+        "day_of_week": "pazar",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "antep corba"
+                ],
+                "main_dish": [
+                    "kadinbudu kofte"
+                ],
+                "vegetarian": [
+                    "bezelye yemegi"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "gul boregi"
+                ],
+                "dessert": [
+                    "mevsim salata",
+                    "meyve",
+                    "meyveli soda"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "tavuk kok kanat"
+                ],
+                "vegetarian": [
+                    "pirasa yemegi"
+                ],
+                "side_dishes": [
+                    "penne makarna",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "portakalli gazoz",
+                    "meyve",
+                    "cilekli puding"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-28",
+        "day_of_week": "pazartesi",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "kis corbasi"
+                ],
+                "main_dish": [
+                    "etli kuru fasulye"
+                ],
+                "vegetarian": [
+                    "etsiz kuru fasulye"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "tursu",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mahluta corba"
+                ],
+                "main_dish": [
+                    "orman kebabi"
+                ],
+                "vegetarian": [
+                    "saksuka"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "pirinc pilavi"
+                ],
+                "dessert": [
+                    "kola",
+                    "meyve",
+                    "profiterol"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-29",
+        "day_of_week": "sali",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "krotonlu mercimek corba"
+                ],
+                "main_dish": [
+                    "mezgit pane"
+                ],
+                "vegetarian": [
+                    "pirasa yemegi"
+                ],
+                "side_dishes": [
+                    "soslu makarna",
+                    "zy.barbunya"
+                ],
+                "dessert": [
+                    "meyve",
+                    "soda",
+                    "tahin helva"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "mantar corba"
+                ],
+                "main_dish": [
+                    "etli sebzeli guvec"
+                ],
+                "vegetarian": [
+                    "nohutlu kabak yemegi"
+                ],
+                "side_dishes": [
+                    "soslu spagetti",
+                    "bulgur pilavi"
+                ],
+                "dessert": [
+                    "cacik",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-30",
+        "day_of_week": "carsamba",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "yesil mercimek corba"
+                ],
+                "main_dish": [
+                    "paris soslu tavuk"
+                ],
+                "vegetarian": [
+                    "falafel"
+                ],
+                "side_dishes": [
+                    "domatesli bulgur pilavi",
+                    "sehriyeli pirinc pilavi"
+                ],
+                "dessert": [
+                    "portakalli gazoz",
+                    "tiramisu",
+                    "mevsim salata"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "alaca corba"
+                ],
+                "main_dish": [
+                    "sebzeli kofte"
+                ],
+                "vegetarian": [
+                    "bezelye yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "misirli pirinc pilavi"
+                ],
+                "dessert": [
+                    "ayran",
+                    "mevsim salata",
+                    "meyve"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2024-10-31",
+        "day_of_week": "persembe",
+        "meals": [
+            {
+                "meal_time": "ogle yemegi",
+                "soup": [
+                    "ezogelin corba"
+                ],
+                "main_dish": [
+                    "arnavut cigeri"
+                ],
+                "vegetarian": [
+                    "yesil mercimek yemegi"
+                ],
+                "side_dishes": [
+                    "pirinc pilavi",
+                    "soslu makarna"
+                ],
+                "dessert": [
+                    "ayran",
+                    "sekerpare",
+                    "piyaz"
+                ]
+            },
+            {
+                "meal_time": "aksam yemegi",
+                "soup": [
+                    "domates corba"
+                ],
+                "main_dish": [
+                    "alinazik kebabi"
+                ],
+                "vegetarian": [
+                    "karniyarik yemegi"
+                ],
+                "side_dishes": [
+                    "bulgur pilavi",
+                    "melek pilavi"
+                ],
+                "dessert": [
+                    "humus",
+                    "meyve",
+                    "limonata"
+                ]
+            }
+        ]
+    }
+]
